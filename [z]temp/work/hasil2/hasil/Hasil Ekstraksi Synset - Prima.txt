@@ -1,0 +1,87 @@
+aba-aba:, arahan, instruksi, isyarat, kode, komando, perintah, petunjuk, suruhan, tanda
+arahan:, panduan, pedoman, perintah, pimpinan, sabda, tuntunan, aba-aba, amanat, mandat
+instruksi:, aba-aba, amanat, komando, nasihat, perintah, tugas
+isyarat:, aba-aba, duaja, gestur, kode, sandi, semboyan, sinyal, tanda, gejala, gelagat, indikasi, pelebaya, petunjuk, sasmita, semboyan, tengara
+kode:, aba-aba, duaja, isyarat, sandi, tanda, kaidah
+komando:, aba-aba, instruksi, perintah, suruhan
+perintah:, aba-aba, amanat, arahan, instruksi, komando, mandat, order, suruhan, titah, tugas
+petunjuk:, bakat, gejala, gelagat, indikasi, isyarat, sinyal, atribut, markah, tanda, aba-aba, bukti, ciri, data, fakta, keterangan, masukan, kaidah, patokan, preskripsi, kompas, manual, panduan, pedoman, tip, ajaran, bimbingan, fatwa, nasihat, pengarahan, petuah, ilham, wahyu, wangsit
+seruan:, laung, ajakan, anjuran, lambaian, panggilan, permintaan, undangan
+suruhan:, aba-aba, amanat, komando, perintah, pesan, tugas
+tanda:, atribut, ciri, markah, semboyan, semboyan, indikasi, isyarat, petunjuk, sinyal, tengara, aba-aba, kode, bukti, keterangan
+titah:, amanat, firman, perintah, sabda
+bimbingan:, panduan, pengarahan, petunjuk, pimpinan, tuntunan, pendidikan, tuntunan
+firman:, sabda, titah
+panduan:, arahan, bimbingan, pedoman, tip, petunjuk, manual
+pedoman:, kompas, arahan, manual, panduan, petunjuk, tip, kaidah, norma, patokan
+pengarahan:, bimbingan, fatwa, masukan, nasihat, petuah, petunjuk
+pengawalan:
+pimpinan:, arahan, bimbingan
+sabda:, arahan, firman, titah
+tuntunan:, arahan, bimbingan
+amanat:, arahan, instruksi, mandat, nasihat, perintah, permintaan, pesan, suruhan, titah, ajaran, keterangan, nasihat, petuah
+mandat:, amanat, arahan, perintah
+ajaran:, amanat, fatwa, ilham, petuah, petunjuk, wahyu, kaidah
+nasihat:, ajakan, anjuran, fatwa, instruksi, pengarahan, petuah, petunjuk, amanat, pesan
+pesan:, suruhan, amanat, nasihat, petuah
+pelatihan:
+pendidikan:, bimbingan
+duaja:, isyarat, kode
+gestur:, isyarat
+sandi:, isyarat, kode, semboyan
+semboyan:, sandi, isyarat, sinyal, tanda
+sinyal:, tanda, bakat, gejala, gelagat, indikasi, pelebaya, petunjuk, semboyan, isyarat
+alamat:
+alamat:
+gejala:, fakta, gelagat, indikasi, isyarat, pelebaya, petunjuk, sinyal
+gelagat:, bakat, gejala, indikasi, isyarat, pelebaya, petunjuk, sinyal, tengara
+indikasi:, bakat, gejala, gelagat, isyarat, pelebaya, petunjuk, sinyal, tanda, tengara
+pelebaya:, gejala, gelagat, indikasi, isyarat, pertanda, sinyal
+pertanda:, pelebaya
+sasmita:, isyarat
+tengara:, gelagat, indikasi, isyarat, tanda
+asas:
+aturan:, kaidah, norma, preskripsi
+hukum:, kaidah, norma, patokan
+kaidah:, ajaran, hukum, kode, norma, patokan, pedoman, peraturan, petunjuk, aturan
+ketentuan:
+norma:, aturan, hukum, kaidah, patokan, pedoman
+peraturan:, kaidah, patokan
+order:, perintah
+rodi:
+tugas:, instruksi, perintah, suruhan
+bakat:, gelagat, indikasi, petunjuk, sinyal
+atribut:, ciri, petunjuk, tanda, tanda
+markah:, petunjuk, tanda
+rambu-rambu:
+bukti:, ciri, data, fakta, keterangan, masukan, petunjuk, tanda
+bahan:
+bahan:
+ciri:, atribut, bukti, petunjuk, tanda
+data:, bukti, fakta, informasi, keterangan, masukan, petunjuk
+fakta:, bukti, data, gejala, informasi, keterangan, masukan, petunjuk
+informasi:, data, fakta, keterangan
+keterangan:, amanat, bukti, data, fakta, informasi, petunjuk, tanda
+masukan:, bukti, data, fakta, fatwa, pengarahan, petuah, petunjuk
+arah:, kompas
+patokan:, hukum, kaidah, norma, pedoman, peraturan, petunjuk
+preskripsi:, aturan, petunjuk
+kompas:, arah, pedoman, petunjuk
+manual:, petunjuk, panduan, pedoman, tip
+resep:
+tip:, manual, panduan, pedoman, petunjuk
+tip:, manual, panduan, pedoman, petunjuk
+fatwa:, ajaran, masukan, nasihat, pengarahan, petuah, petunjuk
+petuah:, ajaran, amanat, fatwa, masukan, nasihat, pengarahan, pesan, petunjuk
+bisikan:, ilham
+ilham:, ajaran, petunjuk, wahyu, wangsit, bisikan
+wahyu:, ajaran, ilham, petunjuk, wangsit
+wangsit:, ilham, petunjuk, wahyu
+laung:, seruan
+ajakan:, anjuran, lambaian, nasihat, panggilan, permintaan, seruan, undangan
+anjuran:, ajakan, panggilan, permintaan, seruan, undangan, nasihat
+lambaian:, ajakan, panggilan, seruan, undangan
+panggilan:, ajakan, anjuran, lambaian, permintaan, seruan, undangan
+permintaan:, ajakan, amanat, anjuran, panggilan, seruan, undangan
+undangan:, ajakan, anjuran, lambaian, panggilan, permintaan, seruan
+pesuruh:

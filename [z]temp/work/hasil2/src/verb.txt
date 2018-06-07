@@ -1,0 +1,53 @@
+ada 1 v siap, sedia, terdapat, terpendam, tersedia, terselip; 2 berdiri, datang, hadir, hidup, jadi, lahir, maujud, muncul, tampak, tampil, terlihat, tersua, wujud; 3 v memegang, memiliki, mempunyai, menyimpan; 4 a benar, betul, boleh
+boleh v bisa, dapat
+sedia 1 v selesai, siap; 2 bersedia; 3 cawis; 4 adv sudah, telah
+cawis v ada, siap, terhidang, tersaji, tersedia, tersuguh
+tersuguh v cawis, terhidang, tersaji, tersedia
+tersua v 1 tepergok, terjumpa; 2 kedapatan, terdapat
+siap v 1 beres, jadi, kelar (cak), mustaid, rampung, selesai; 2 ada, cawis, tersedia
+rampung v beres, habis, selesai, tamat, tuntas, usai
+kelar v takik
+terjumpa v tepergok, tersua, tertumbuk
+tertumbuk v 1 beradu, teragung, terantuk, terbentur, terlanggar, tersentuk, tertabrak, tertarung, tertubruk; 2 terpukul; 3 terjumpa, tersuntuk; terganjal, terhalang, terhambat
+takik n biku, cangap, gerigi, gubang, kelar, keluk, ketak, luk, rigi-rigi, takuk, tokek, toreh, tukik
+usai v berakhir, berhenti, bubar, cutel, finis, habis, khatam, lalu, pecah, putus, rampung, selesai, sudah, tamam, tamat
+tuntas a 1 berakhir, beres, rampung, selesai, sempurna; 2 habis, tandas
+tamat a berakhir, berhenti, bubar, finis, habis, khatam, kiamat, langsai, lengkap,  lunas, rampung, selesai, sempurna, siap, tamam, usai
+habis 1 v amblas, berakhir, beres, berhenti, bersih, damas, finis, gentas, gugur, hilang, jatuh, khatam, kosong, lenyap, lesap, lewat, lindang, lingkap, ludes, luruh, melindap, punah, putus, rapi, rugi, selesai, siap, suntuk, tamam, tamat, tandas, tandus, tewas, timpas, tohor, tumpas, tuntas, usai; 2 v beres, impas, lunas, terbayar
+mustaid adv lengkap, sedia, selesai, siap
+beres a 1 apik, bagus, baik, berakhir, bersih, habis, kelar (cak), kemas, langsai, lunas, mulus, putus, rampung, rapi, segeh, selesai, sempurna, siap, simpan, teratur, tertata, tertib, tuntas; 2 impas, terbayar; 3 cak betul, normal, jalan, bekerja, berfungsi
+terdapat v ada, diperoleh, ditemukan, kedapatan, tampak, terkandung, termuat, terpakai, terpendam, terselip, tersembunyi, tersimpul, tersua, terukir
+kedapatan v 1 didapati, diketahui, ditemukan, kelihatan, ketahuan, tapak, terdapat, terlihat, terselip, tersua; 2 kebabaran, ketahuan, tepergok, terkejar, tertangkap basah, tertangkap tangan
+tepergok v 1 terjumpa, tersua; 2 kebabaran, kedapatan, terlalah terkejar, tertangkap basah, tertangkap tangan
+tersedia v ada, cawis, siap, terhidang, tersaji, tersuguh
+tersaji v cawis, terhidang, tersedia, tersuguh
+terhidang v cawis, tersaji, tersedia, tersuguh
+telah adv sudah; pernah, suah
+sudah 1 adv telah, pernah, suah; 2 v berakhir, habis, selesei, tamat, usai; 3 p sehabis, selepas, sesudah, setelah
+bersedia v 1 mau, rela, sanggup, sudi, suka; 2 berjaga-jaga, berkeledar, berkemas, bersiap, bersigap, bersikap, berwaspada
+selesai v 1 beres (cak), jadi, kelar (cak), lengkap, putus, rampung, sempurna, siap, tamam, tuntas; 2 berakhir, berhenti, bubar, cutel, finis, gentas, habis, khatam, lalu, pecah, radu, stop, usai
+terdapat v ada, diperoleh, ditemukan, kedapatan, tampak, terkandung, termuat, terpakai, terpendam, terselip, tersembunyi, tersimpul, tersua, terukir
+terpendam 1 v ada, tercantum, terdapat, terkandung, terkubur, terselip, tersemat (ki), tersimpan,  tertanam; 2 a laten potensial, terselubung, tersembunyi
+tersedia v ada, cawis, siap, terhidang, tersaji, tersuguh
+terselip v 1 terselit, tersisip; 2 tercantum, termaktub; terpendam, tersembunyi, tersimpan; 3 ada, kedapatan, terdapat, terkandung
+berdiri 1 v ada, bangkit (roma), bangkit, bangun, berdasar, berjejak, berkacak, berpijak, bertumpu, jinjing, lahir, mencacak, muncul, tegak, terbentuk; 2 a memancang, mencacak, mencuar, tegak
+datang 1 v ada, asal, berasal, berkunjung, berlabuh, bertandang, hadir, hingga, masuk, mendarat, menjeru, merapat, muncul, pegari, sampai, singgah, tampak, terbit (perasaan), terlihat, terlintas, tiba, timbul, turun; 2 n kelak, kemudian, nanti
+hadir v 1 ada, datang, masuk, muncul, sedia, siap, tampil, tampak; 2 tecermin, tergambar, terlihat, terlukis, terpantul
+hidup 1 v berjiwa, bernapas, bernyawa, membesar, tumbuh, urip; 2 v menyala; 3 v bergerak, berjalan, bekerja, berfungsi, beroperasi; 4 a baru, segar; 5 v beralamat, berdiam, bermukim, duduk, tinggal; 6 amarak, menggembirakan, meriah, ramai
+jadi v 1 beres, oke (cak), selesai, siap, setuju; 2 berhasil, lulus, sukses, tercapai; 3 berdiri, hadir, keluar, lahir, muncul, terbit, tampil
+lahir 1 v jebrol; 2 v ada, berdiri, hadir, jadi, keluar, muncul, terbentuk, timbul, tumbuh; 3 n jasmani, keduniaan
+maujud v aktual, benar-benar ada, berbentuk, berupa, jasmani, jelas, kasatmata, keduniaan, kongkret, lahir, nyata, real, sungguh ada, wujud
+muncul v bertambah, bertunas, hidup, kelihatan, keluar, lahir, membuntang, mencagun, mencongol, mencuat, mengembol, menjedul, menjelma, menjengul, menjungkar, menongol, menonjol, menyembul, menyempal, pegari, tampak, tepercul, terangkat, terbit, tersembul, timbul, tumbuh; 2 ada, datang, hadir, masuk, pegari, tampak, terlihat; 3  berbentuk, berdiri, jadi, lahir, mengemuka, menjelma, tampil, tumbuh; 4 keluar, terbit
+tampak 1 a jelas, kasat mata, kelihatan, ketahuan, ketara, nyata, terang; 2 v ada, datang, hadir, kedapatan, menonjol, menyembul, muncul, nongol (cak), terbit, terbuka, tercelik, terlihat, terpandang, tertentang, tertumbuk pandangan, timbul, visibel
+tampil v datang, hadir, maju, menampakkan diri, mendorong, menyorong, muncul, tampak
+terlihat v 1 kelihatan, tampak, terpandang, tertentang, tertumbuk pandangan, visibel; 2 datang, hadir, muncul, pegari
+wujud n 1 bangun, bentuk, figur, gatra, konfigurasi, konstruksi, rupa, sosok, struktur,tokoh; 2 entitas, materi, maujud, zat
+memegang v 1 mengacak, mengawai, mengawat, menggenggam, menggepit, menjawat, mematik, membekam, mencekal, mencekam, mencekau, mencengkam, mencengkau, mencengkeram, mencerkau, mengerkau, menjeramah, merangkam; 2 memiliki, mempunyai, mengantongi, menyimpan, menyandang; 3  melipat (ki), membekuk, menangkap, mencekal, menciduk (ki), mencomot (ki), mengamankan, menyergap, meringkus, merejeng; 4 memangku, menduduki, menempati; 5 mematuhi, menaati, mengacuhkan, mengikuti, mengindahkan, memakai
+memiliki v ada, memegang, mempunyai, mengantongi, menyimpan, menyandang
+mempunyai v ada, memiliki, memegang, memelihara, memiliki, mengantongi, menyandang, menyimpan, punya
+menyimpan v 1 menabung, menahan, mencadangkan, menyediakan, menyisihkan; 2 menaruh, menempatkan; menitipkan, menumpangkan; menghimpun; 3 memangku, membatinkan, membekam, memendam, memeram, menanam; menguburkan (ki), menutupi, menyembunyikan, menyengapkan, merahasia-kan; 4 mencatat, mendokumentasikan, mengabadikan, mengarsip; 5 memegang, memiliki, mempunyai, mengantongi; berisi, memuat, mengandung
+benar a 1 adil, akurat, betul, cocok, jujur, loyal, lurus hati, lurus, mustakim, pas, pasti, persis (cak), piawai, sadik, sah, sahih, sejati, sempurna, sepadan, sesuai, setia, sungguh, tahkik, tepat, valid; 2 aci, asi, legal, resmi; 3 asli, ada, faktual, memang, nyata, real, sungguh-sungguh; 4  hak, imbang; 5 amat, sangat; 6 etis, lugu, naif, polos
+betul a 1 sesungguhnya, sungguh; 2 cocok, piawai, sesuai, tepat; 3 absah, asli, bersih, orisinal, sejati, tulen; 4 pas, persis, tepat; 5 cak beres, berfungsi, jalan, normal
+bisa adv becus (cak), cakap, dapat, kuasa, larat, mampu, pandai, sanggup
+bisa n racun
+dapat 1 adv angsal, becus (cak), beroleh, bisa,boleh, cakap, kuasa, mampu, pandai, sanggup; 2 v berhasil, bersua, bertemu, memperoleh, menemui, menerima, mungkin, raih, tercapai, terima; 3 v kena, tertangkap

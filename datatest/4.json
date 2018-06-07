@@ -1,0 +1,15 @@
+{
+  "pekan": [
+    ["pasar", "rekan"],
+    ["minggu"]
+  ],
+  "pasar": [
+    ["pekan", "rekan"]
+  ],
+  "rekan": [
+    ["pasar", "pekan"]
+  ],
+  "minggu": [
+    ["ahad", "pekan"]
+  ]
+}

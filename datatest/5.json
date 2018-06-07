@@ -1,0 +1,14 @@
+{
+  "perdamaian": [
+    ["perbaikan", "rekonsiliasi", "peleraian"]
+  ],
+  "rekonsiliasi": [
+    ["perdamaian", "perbaikan"]
+  ],
+  "perbaikan": [
+    ["rekonsiliasi", "perdamaian", "peleraian"]
+  ],
+  "peleraian": [
+    ["perdamaian", "perbaikan", "rekonsiliasi"]
+  ]
+}

@@ -1,0 +1,37 @@
+import json
+
+file_data = open('sample.json')
+data = json.load(file_data)
+# print(data)
+
+def synsets_gen(word):
+    lines = data[word]
+    output = []
+    for line in lines: #[ ["minggu"], ["esa", "tunggal", "satu"] ]
+        
+        synset = set([])
+        
+        for sense in line: # "minggu" / "esa", "tunggal", "satu"
+            check_inner_senses = False
+            if data.get(sense) != None:
+                for inner_senses in data[sense]:
+                    if word in inner_senses:
+                        synset.add(sense)
+                        check_inner_senses = True
+                
+            # add word itself
+            if check_inner_senses == True:
+                synset.add(word)
+            
+        output.append(synset)
+    print output
+    return output
+
+
+def main():
+    for x in data:
+        synsets_gen(x)
+
+main()
+
+#print(sync_set_gen("aborsi"))

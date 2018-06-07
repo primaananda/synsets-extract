@@ -1,2 +1,1 @@
-# synsets-extract
-# synsets-extract
+# created by Prima Ananda
