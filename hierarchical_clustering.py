@@ -65,7 +65,7 @@ def agglomerative_clustering(dataset):
         i += 1
     return output_cluster
 
-file1 = open('datatest/1.json')
+file1 = open('datatest/datatest.json')
 synsets = synsets_extraction(file1)
 agglomerative_clustering(synsets)
 # hasil = calculate_distance(x2,x1)

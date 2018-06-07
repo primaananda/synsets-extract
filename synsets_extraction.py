@@ -54,7 +54,7 @@ def synsets_extraction(file):
     calon_synsets = []
     count_synset = 0
     for word in thesa:
-        output = alt_gen(word, open('datatest/1.json'))
+        output = alt_gen(word, open('datatest/datatest.json'))
         for synsets in output:
             calon_synsets.append(synsets)
             count_synset += 1
