@@ -1,23 +1,23 @@
 from synsets_extraction import synsets_extraction
 from synsets_extraction import alt_gen
+import json
 
 if __name__ == '__main__':
     file1 = open('datatest/1.json')
-<<<<<<< HEAD
-    synsets_file1 = alt_gen('ahad', file1)
-    del_redundant = synsets_extraction(synsets_file1)
-
+    thesa = json.load(file1)
+    synsets_file = alt_gen('ahad', thesa)
+    del_redundant = synsets_extraction(synsets_file)
+    print()
+    print()
+    for x in del_redundant:
+        print(x)
     ##########
-    file2 = open('datatest/datatest.json')
-    synsets_file2 = alt_gen()
+    word = ['ahad', 'setanggi', 'aborsi', 'pekan', 'abah']
+    new_synsets = []
+    with open(open('datatest/datatest.json')) as fl:
+        thesa = json.load(fl)
+        for w in word:
+            new_synsets = alt_gen(w, thesa)
 
-=======
-    file2 = open('datatest/datatest.json')
-    synsets = synsets_extraction(file2)
->>>>>>> 01780f6641f2a2d48a6af17314af8e84c83d2089
     file1.close()
     file2.close()
-    print()
-    print()
-    for x in synsets_alt:
-        print(x)
