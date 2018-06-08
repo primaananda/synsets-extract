@@ -1,5 +1,7 @@
 import itertools
-from synsets_extraction import synsets_extraction
+import json
+
+from synsets_extraction import synsets_extraction, alt_gen
 import numpy as np
 
 x1 = ['ahad', 'esa', 'satu', 'tunggal']
@@ -65,7 +67,9 @@ def agglomerative_clustering(dataset):
         i += 1
     return output_cluster
 
-file1 = open('datatest/datatest.json')
-synsets = synsets_extraction(file1)
-agglomerative_clustering(synsets)
+file1 = open('datatest/1.json')
+thesa = json.load(file1)
+synst = alt_gen('ahad',thesa)
+synset = synsets_extraction(synst)
+agglomerative_clustering(synset)
 # hasil = calculate_distance(x2,x1)

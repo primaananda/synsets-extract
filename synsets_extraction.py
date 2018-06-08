@@ -39,7 +39,6 @@ def evaluate_synsets(matrik):
     return sorted(set(result.index))
 
 def alt_gen(word, thesa):
-
     matrixs = check_validation(word, thesa)
     sets_list = []
     for matrix in matrixs:

@@ -12,12 +12,12 @@ if __name__ == '__main__':
     for x in del_redundant:
         print(x)
     ##########
-    word = ['ahad', 'setanggi', 'aborsi', 'pekan', 'abah']
-    new_synsets = []
-    with open(open('datatest/datatest.json')) as fl:
-        thesa = json.load(fl)
-        for w in word:
-            new_synsets = alt_gen(w, thesa)
+    # word = ['ahad', 'setanggi', 'aborsi', 'pekan', 'abah']
+    # new_synsets = []
+    # with open(open('datatest/datatest.json')) as fl:
+    #     thesa = json.load(fl)
+    #     for w in word:
+    #         new_synsets = alt_gen(w, thesa)
 
     file1.close()
-    file2.close()
+    #file2.close()
