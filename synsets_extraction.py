@@ -38,7 +38,8 @@ def evaluate_synsets(matrik):
     result = series[series == True]
     return sorted(set(result.index))
 
-def alt_gen(word, thesa):
+def alt_gen(word, file):
+    thesa = json.load(file)
     matrixs = check_validation(word, thesa)
     sets_list = []
     for matrix in matrixs:

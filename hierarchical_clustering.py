@@ -68,8 +68,7 @@ def agglomerative_clustering(dataset):
     return output_cluster
 
 file1 = open('datatest/1.json')
-thesa = json.load(file1)
-synst = alt_gen('ahad',thesa)
+synst = alt_gen('ahad',file1)
 synset = synsets_extraction(synst)
 agglomerative_clustering(synset)
 # hasil = calculate_distance(x2,x1)

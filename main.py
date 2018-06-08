@@ -4,12 +4,20 @@ import json
 
 if __name__ == '__main__':
     file1 = open('datatest/1.json')
-    thesa = json.load(file1)
-    synsets_file = alt_gen('ahad', thesa)
+
+    synsets_file = alt_gen('ahad', file1)
     del_redundant = synsets_extraction(synsets_file)
     print()
     print()
     for x in del_redundant:
+        print(x)
+    ##########
+    file2 = open('datatest/5.json')
+    synsets_fil = alt_gen('perdamaian', file2)
+    del_redundan = synsets_extraction(synsets_fil)
+    print()
+    print()
+    for x in del_redundan:
         print(x)
     ##########
     # word = ['ahad', 'setanggi', 'aborsi', 'pekan', 'abah']
