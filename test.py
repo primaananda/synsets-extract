@@ -2,8 +2,6 @@ import unittest
 import json
 
 from synsets_extraction import alt_gen
-from synsets import synsets_gen
- 
 
 class SyncSetTest(unittest.TestCase):
     
