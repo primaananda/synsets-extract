@@ -28,13 +28,16 @@ def check_validation(word, thesa):
                     for inner_senses in thesa[sense]:
                         for inner_sense in inner_senses:
                             if sense in matrik.index and inner_sense in matrik.index:
-                                matrik[sense][inner_sense] = True
                                 matrik[word][sense] = True
+                                matrik[sense][inner_sense] = True
+
         output.append(matrik)
     return output
 
 def evaluate_synsets(matrik):
+    print(matrik)
     series = matrik.all()
+    print(series)
     result = series[series == True]
     return sorted(set(result.index))
 
@@ -48,7 +51,7 @@ def alt_gen(word, file):
     return sets_list
 
 #ekstraksi synset
-def synsets_extraction(synsets):
+def delete_redundant(synsets):
     #delete redundant data
     #print('Menghapus data redundant')
     new_synset = []

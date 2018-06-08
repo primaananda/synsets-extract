@@ -1,14 +1,26 @@
 {
   "perdamaian": [
-    ["perbaikan", "rekonsiliasi", "peleraian"]
+    ["peleraian", "pemufakatan", "penyelesaian", "perbaikan", "persesuian", "perundingan", "rekonsiliasi"]
   ],
   "rekonsiliasi": [
     ["perdamaian", "perbaikan"]
   ],
   "perbaikan": [
-    ["rekonsiliasi", "perdamaian", "peleraian"]
+    ["koreksi", "pembaruan", "pembetulan", "pemeriksaan", "pemindaan", "pemugaran", "pemulihan",
+      "penyempurnaan", "perombakan", "perubahan", "ralat", "reformasi", "rehabilitasi",
+      "rekonsiliasi", "rekonstruksi", "renovasi", "reparasi", "restorasi",
+      "revisi", "servis", "suntingan"]
   ],
   "peleraian": [
-    ["perdamaian", "perbaikan", "rekonsiliasi"]
+    ["pemisahan", "pengantaraan", "penengahan", "perwasitan", "peradilan"]
+  ],
+  "penyelesaian": [
+    ["penanganan", "pengerjaan", "penggarapan", "pengurusan", "penunaian",
+      "penuntasan", "penyempurnaan", "penyudahan"],
+    ["jalan keluar", "jalan lepas", "pemecahan", "penanggulangan", "resolusi", "solusi"]
+  ],
+  "perundingan": [
+    ["muktamar", "pakat", "pembicaraan", "perbincangan", "perbuatan", "percakapan",
+      "perembukan", "perhimpunan", "permufakatan", "permusyawaratan", "persidangan", "rapat"]
   ]
 }
