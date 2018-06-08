@@ -1,5 +1,64 @@
 {
+  "ahad": [
+    ["minggu"],
+    ["esa", "tunggal", "satu"]
+  ],
   "setanggi": [
     ["kemenyan"]
+  ],
+  "aborsi": [
+    ["pengguguran"]
+  ],
+  "pekan": [
+    ["pasar", "rekan"],
+    ["minggu"]
+  ],
+  "abah": [
+    ["arah", "depan", "hadap", "haluan", "jurus", "tuju"]
+  ],
+  "tuju": [
+    ["menentang", "mengarah",  "mendatangi", "mendekati"]
+  ],
+  "haluan": [
+    ["abah", "arah", "hadapan", "jurusan", "tujuan"],
+    ["depan", "muka"],
+    ["adicita", "ajaran", "aliran", "cita-cita", "fikrah", "filsafat", "ideologi", "maksud",  "paham", "pedoman", "pemikiran"]
+  ],
+  "hadap": [
+    ["arah", "hala", "jurusan", "paran", "tala", "tepas", "tuju"]
+  ],
+  "arah": [
+    ["cita-cita", "hadap", "haluan", "jurusan", "kiblat", "kompas", "mata angin", "niat", "panduan", "pedoman", "petunjuk"],
+    ["aspek", "faktor", "orientasi", "penjuru", "pihak", "sebelah", "segi", "sisi", "sudut", "tala"]
+  ],
+  "depan": [
+    ["ambang", "dada", "front", "hadapan", "muka", "pendahuluan", "permulaan"]
+  ],
+  "pasar": [
+    ["pekan", "rekan"]
+  ],
+  "rekan": [
+    ["pasar", "pekan"]
+  ],
+  "minggu": [
+    ["ahad", "pekan"]
+  ],
+  "pengguguran": [
+    ["aborsi"]
+  ],
+  "minggu": [
+    ["ahad", "pekan"]
+  ],
+  "tunggal": [
+    ["ahad", "esa", "satu"],
+    ["sendiri", "singular", "individual", "perorangn", "solo"],
+    ["satu-satunya", "semata wayang", "wahid"],
+    ["abulat", "utuh"]
+  ],
+  "esa": [
+    ["ahad", "satu", "tunggal"]
+  ],
+  "satu": [
+    ["ahad", "eka", "esa", "homo-", "iso-", "mono-", "se-", "suatu", "tunggal", "uni", "unik", "wahid"]
   ]
 }
