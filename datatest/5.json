@@ -1,26 +1,15 @@
 {
-  "perdamaian": [
-    ["peleraian", "pemufakatan", "penyelesaian", "perbaikan", "persesuian", "perundingan", "rekonsiliasi"]
+  "lebu": [
+    ["abu", "debu", "duli", "serdak"]
   ],
-  "rekonsiliasi": [
-    ["perdamaian", "perbaikan"]
+  "abu": [
+    ["abuk", "bubuk", "debu", "duli", "lebu", "serbuk", "tepung"]
   ],
-  "perbaikan": [
-    ["koreksi", "pembaruan", "pembetulan", "pemeriksaan", "pemindaan", "pemugaran", "pemulihan",
-      "penyempurnaan", "perombakan", "perubahan", "ralat", "reformasi", "rehabilitasi",
-      "rekonsiliasi", "rekonstruksi", "renovasi", "reparasi", "restorasi",
-      "revisi", "servis", "suntingan"]
+  "debu": [
+    ["abu", "abuk", "bubuk", "duli", "serbuk", "serdak", "tepung"]
   ],
-  "peleraian": [
-    ["pemisahan", "pengantaraan", "penengahan", "perwasitan", "peradilan"]
-  ],
-  "penyelesaian": [
-    ["penanganan", "pengerjaan", "penggarapan", "pengurusan", "penunaian",
-      "penuntasan", "penyempurnaan", "penyudahan"],
-    ["jalan keluar", "jalan lepas", "pemecahan", "penanggulangan", "resolusi", "solusi"]
-  ],
-  "perundingan": [
-    ["muktamar", "pakat", "pembicaraan", "perbincangan", "perbuatan", "percakapan",
-      "perembukan", "perhimpunan", "permufakatan", "permusyawaratan", "persidangan", "rapat"]
+  "duli": [
+    ["abu", "debu", "lebu", "tapak kaki", "kadam"],
+    ["baginda"]
   ]
 }

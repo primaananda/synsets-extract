@@ -35,9 +35,7 @@ def check_validation(word, thesa):
     return output
 
 def evaluate_synsets(matrik):
-    print(matrik)
     series = matrik.all()
-    print(series)
     result = series[series == True]
     return sorted(set(result.index))
 
@@ -49,26 +47,3 @@ def alt_gen(word, file):
         synset = evaluate_synsets(matrix)
         sets_list.append(synset)
     return sets_list
-
-#ekstraksi synset
-def delete_redundant(synsets):
-    #delete redundant data
-    #print('Menghapus data redundant')
-    new_synset = []
-    count_synset_after = 0
-    for synset in synsets:
-        #print(len(synset))
-        #remove zero synset in list
-        if len(synset) != 0:
-            new_synset.append(synset)
-    #remove duplicate synsets
-    new_set = set(tuple(syns) for syns in new_synset)
-    new_synset = [list(syns) for syns in new_set]
-
-    #sum synset after delete redundant and zero list
-    for x in new_synset:
-        count_synset_after += 1
-    #print('done\nBerhasil menghapus ' + str(count_synset - count_synset_after) + ' synsets duplikat')
-    #print('Terdapat : ' + str(count_synset_after) + ' synsets setelah menghapus data duplikat')
-
-    return new_synset

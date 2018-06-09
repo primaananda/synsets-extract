@@ -35,7 +35,7 @@ class SyncSetTest(unittest.TestCase):
 
     def test_sample5(self):
         file = open('datatest/5.json')
-        input = alt_gen('perdamaian', file)
+        input = alt_gen('lebu', file)
         file.close()
         output = [['peleraian','perbaikan', 'perdamaian']]
         self.assertEqual(input, output, '\nresult: {}\nexpected: {}'.format(input, output))
