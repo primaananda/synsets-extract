@@ -35,6 +35,19 @@ def check_validation(word, thesa):
     return output
 
 def evaluate_synsets(matrik):
+    count_true = 0
+    # for col_name, column in matrik.transpose().iterrows():
+    #     print(column)
+    for name, values in matrik.iteritems():
+        print('{name}: {value}'.format(name=name, value=values[0]))
+        count_true += matrik[name].value_counts()
+    # for colm in matrik:
+    #     print('colm ', colm)
+    #     print('matrik[colm] ', matrik[colm].index[1])
+    #     #print(matrik[colm].index.values)
+    #     count_true += matrik[colm].value_counts(True)
+    #     #print(matrik[colm].value_counts())
+    print(count_true)
     series = matrik.all()
     result = series[series == True]
     return sorted(set(result.index))

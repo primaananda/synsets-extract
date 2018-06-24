@@ -17,23 +17,23 @@ def f1_score(synsets_program, synsets_manual):
 if __name__ == '__main__':
     synsets_final = []
 
-    file1 = open('datatest/1.json')
-    synsets_file1 = alt_gen('ahad', file1)
-    for x in synsets_file1:
-        synsets_final.append(x)
-    file2 = open('datatest/5.json')
-    synsets_file2 = alt_gen('lebu', file2)
-    for x in synsets_file2:
-        synsets_final.append(x)
+    # file1 = open('datatest/1.json')
+    # synsets_file1 = alt_gen('ahad', file1)
+    # for x in synsets_file1:
+    #     synsets_final.append(x)
+    # file2 = open('datatest/5.json')
+    # synsets_file2 = alt_gen('lebu', file2)
+    # for x in synsets_file2:
+    #     synsets_final.append(x)
 
-    # file3 = open('datatest/6.json')
-    # synsets3 = alt_gen('abu', file3)
-    # print(synsets3)
+    file3 = open('datatest/6.json')
+    synsets3 = alt_gen('abu', file3)
+    print(synsets3)
 
-    file1.close()
-    file2.close()
-    #file3.close()
+    #file1.close()
+    #file2.close()
+    file3.close()
 
-    akurasi = f1_score(synsets_final, synsets_manual)
+    #akurasi = f1_score(synsets_final, synsets_manual)
 
-    print(akurasi)
+    #print(akurasi)
