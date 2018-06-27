@@ -1,0 +1,12 @@
+[
+  
+  "songkok": [
+    ["kopiah", "peci"]
+  ],
+  "kopiah": [
+    ["peci", "songkok"]
+  ],
+  "peci": [
+    ["kopiah", "songkok"]
+  ]
+]

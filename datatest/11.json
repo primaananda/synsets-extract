@@ -1,0 +1,12 @@
+[
+  "rekan": [
+    ["pasar", "pekan"]
+  ],
+  "pasar": [
+    ["pekan", "rekan"]
+  ],
+  "pekan": [
+    ["pasar", "rekan"],
+    ["minggu"]
+  ]
+]

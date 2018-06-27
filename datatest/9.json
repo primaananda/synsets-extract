@@ -1,0 +1,8 @@
+{
+  "pengguguran": [
+    ["aborsi"]
+  ],
+  "aborsi": [
+    ["pengguguran"]
+  ]
+}
