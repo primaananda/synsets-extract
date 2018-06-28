@@ -1,0 +1,14 @@
+{
+  "parasit": [
+    ["benalu", "pasilan", "sakat"]
+  ],
+  "benalu": [
+    ["parasit", "pasilan", "sakat"]
+  ],
+  "pasilan": [
+    ["benalu", "parasit", "sakat"]
+  ],
+  "sakat": [
+    ["benalu", "parasit"]
+  ]
+}

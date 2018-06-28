@@ -1,0 +1,15 @@
+{
+  "fiksi": [
+    ["fantasi", "khayalan", "lamunan"]
+  ],
+  "fantasi": [
+    ["abun-abun", "angan-angan", "asosiasi", "bayangan", "citra", "delusi",
+    "fiksi", "gambaran", "halusinasi", "ide", "ilusi", "imajinasi", "impian", "khayalan", "lamunan", "mimpi", "visi"]
+  ],
+  "khayalan": [
+    ["dongengan", "khayal"]
+  ],
+  "lamunan": [
+    ["angan-angan", "impian", "khayalan"]
+  ]
+}

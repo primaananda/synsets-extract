@@ -1,0 +1,8 @@
+{
+  "parafin": [
+    ["lilin"]
+  ],
+  "lilin": [
+    ["parafin"]
+  ]
+}

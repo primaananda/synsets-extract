@@ -1,5 +1,11 @@
-[
+{
   "koran": [
     ["harian", "surat kabar"]
+  ],
+  "harian": [
+    ["koran", "surat kabar"]
+  ],
+  "surat kabar": [
+    ["harian", "koran"]
   ]
-]
+}

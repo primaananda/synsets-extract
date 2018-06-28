@@ -1,0 +1,8 @@
+{
+  "bandrek": [
+    ["serbat"]
+  ],
+  "serbat": [
+    ["bandrek"]
+  ]
+}

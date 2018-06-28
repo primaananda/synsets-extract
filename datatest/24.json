@@ -1,0 +1,14 @@
+{
+  "binatang": [
+    ["dabat", "fauna", "hewan", "satwa"]
+  ],
+  "fauna": [
+    ["alam hewan", "dunia hewan"]
+  ],
+  "hewan": [
+    ["binatang", "dabat", "fauna", "sato", "satwa"]
+  ],
+  "satwa": [
+    ["binatang", "hewan"]
+  ]
+}

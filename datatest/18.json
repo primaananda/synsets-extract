@@ -1,0 +1,20 @@
+{
+  "suar": [
+    ["marak", "pijar"],
+    ["menara api", "mercusuar", "rumah api"]
+  ],
+  "marak": [
+    ["calak", "cemerlang", "cerah", "hidup", "mencolok", "meriah", "naik daun", "populer", "ramai", "santer", "semarak", "terang"],
+    ["nyala", "pijar"]
+  ],
+  "pijar": [
+    ["marak", "nyala", "suar"],
+    ["bunga api", "kilatan api", "lelatu", "pendar", "percikan api"]
+  ],
+  "menara api": [
+    ["menara suar", "mercusuar", "rumah api"]
+  ],
+  "mercusuar": [
+    ["menara api", "rumah api", "menara suar"]
+  ]
+}

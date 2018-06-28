@@ -1,0 +1,14 @@
+{
+  "radas": [
+    ["alat", "perkakas"]
+  ],
+  "alat": [
+    ["gawai", "instrumen", "mesin", "motor", "perabot", "perangkat", "peranti", "perkakas", "perlengkapan", "pesawat"],
+    ["cara", "corong", "fasilitas", "jalan", "kendaraan", "media", "sarana", "syarat", "wahana"],
+    ["aparat", "juru bicara", "petugas"],
+    ["indra"]
+  ],
+  "perkakas": [
+    ["abah-abah", "alat", "gawai", "instrumen", "perabot", "perangkat", "peranti", "perlengkapan", "radas"]
+  ]
+}

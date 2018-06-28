@@ -1,5 +1,4 @@
-[
-  
+{
   "songkok": [
     ["kopiah", "peci"]
   ],
@@ -9,4 +8,4 @@
   "peci": [
     ["kopiah", "songkok"]
   ]
-]
+}

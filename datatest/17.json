@@ -1,0 +1,8 @@
+{
+  "temu": [
+    ["jumpa", "sua"]
+  ],
+  "jumpa": [
+    ["bertemu", "sua", "temu"]
+  ]
+}

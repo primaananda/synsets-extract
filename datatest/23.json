@@ -1,0 +1,11 @@
+{
+  "satwa": [
+    ["binatang", "hewan"]
+  ],
+  "binatang": [
+    ["dabat", "fauna", "hewan", "satwa"]
+  ],
+  "hewan": [
+    ["binatang", "dabat", "fauna", "sato", "satwa"]
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "persentase": [
+    ["bagian"]
+  ],
+  "bagian": [
+    ["belahan", "cuilan", "kepingan", "kebacut", "ratin", "paruhan", "pecahan", "penggalan", "potongan", "serpihan"],
+    ["anasir", "anggota", "elemen", "faktor", "komponen", "konstituen", "partikel", "segmen", "unsur", "zat"],
+    ["artikel", "ayat", "butir", "poin"],
+    [ "afdeling", "bidang", "biro", "dapur", "departemen", "divisi", "front", "organ", "seksi", "sektor", "unit"],
+    ["adegan", "babak", "episode", "fragmen", "putaran", "sesi", "ronde"],
+    ["ambang", "etape", "fase", "langkah", "periode", "stadium", "tahap", "taraf"],
+    ["jilid", "volume"],
+    ["paksa", "pihak", "samping", "sayap", "sebelah", "sisi"],
+    ["giliran"]
+  ]
+}
