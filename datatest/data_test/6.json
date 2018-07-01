@@ -1,13 +1,28 @@
 {
-  "minggu": [
-    ["ahad", "pekan"]
+  "abu": [
+    ["abuk", "bubuk", "debu", "duli", "lebu", "serbuk", "tepung"]
   ],
-  "ahad": [
-    ["minggu"],
-    ["esa", "tunggal", "satu"]
+  "abuk": [
+    ["abu", "bubuk", "debu", "duli", "lebu", "reja-reja kayu", "serbuk", "serdak", "siring", "tepung"]
   ],
-  "pekan": [
-    ["pasar", "rekan"],
-    ["minggu"]
+  "bubuk": [
+    ["abuk", "puder", "serbuk", "talek"],
+    ["aci", "pati", "tepung", "tapung"]
+  ],
+  "debu": [
+    ["abu", "abuk", "bubuk", "duli", "serbuk", "serdak", "tepung"]
+  ],
+  "duli": [
+    ["abu", "debu", "lebu", "tapak kaki", "kadam"],
+    ["baginda"]
+  ],
+  "lebu": [
+    ["abu", "debu", "duli", "serdak"]
+  ],
+  "serbuk": [
+    ["abuk", "bubuk", "talk", "tepung", "puyer"]
+  ],
+  "tepung": [
+    ["abuk", "aci", "bubuk", "pati", "puder", "sagu", "serbuk"]
   ]
 }

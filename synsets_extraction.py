@@ -47,14 +47,16 @@ def evaluate_synsets(matrik):
     #     #print(matrik[colm].index.values)
     #     count_true += matrik[colm].value_counts(True)
     #     #print(matrik[colm].value_counts())
-    print(count_true)
+    #print(count_true)
     series = matrik.all()
+    print(series)
     result = series[series == True]
     return sorted(set(result.index))
 
 def alt_gen(word, file):
     thesa = json.load(file)
     matrixs = check_validation(word, thesa)
+    print(matrixs)
     sets_list = []
     for matrix in matrixs:
         synset = evaluate_synsets(matrix)

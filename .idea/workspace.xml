@@ -2,43 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7cae50f2-249a-477d-b70b-952edc473d29" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/datatest/1.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/1.json" beforeDir="false" afterPath="$PROJECT_DIR$/datatest/data_test/1.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/10.json" beforeDir="false" afterPath="$PROJECT_DIR$/datatest/data_train/10.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/11.json" beforeDir="false" afterPath="$PROJECT_DIR$/datatest/data_train/11.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/12.json" beforeDir="false" afterPath="$PROJECT_DIR$/datatest/data_test/12.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/13.json" beforeDir="false" afterPath="$PROJECT_DIR$/datatest/data_train/13.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/14.json" beforeDir="false" afterPath="$PROJECT_DIR$/datatest/data_train/14.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/15.json" beforeDir="false" afterPath="$PROJECT_DIR$/datatest/data_test/15.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/16.json" beforeDir="false" afterPath="$PROJECT_DIR$/datatest/data_test/16.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/17.json" beforeDir="false" afterPath="$PROJECT_DIR$/datatest/data_test/17.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/18.json" beforeDir="false" afterPath="$PROJECT_DIR$/datatest/data_test/18.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/19.json" beforeDir="false" afterPath="$PROJECT_DIR$/datatest/data_test/19.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/2.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/2.json" beforeDir="false" afterPath="$PROJECT_DIR$/datatest/data_test/2.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/20.json" beforeDir="false" afterPath="$PROJECT_DIR$/datatest/data_train/20.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/21.json" beforeDir="false" afterPath="$PROJECT_DIR$/datatest/data_train/21.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/22.json" beforeDir="false" afterPath="$PROJECT_DIR$/datatest/data_test/22.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/23.json" beforeDir="false" afterPath="$PROJECT_DIR$/datatest/data_test/23.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/24.json" beforeDir="false" afterPath="$PROJECT_DIR$/datatest/data_test/24.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/25.json" beforeDir="false" afterPath="$PROJECT_DIR$/datatest/data_test/25.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/26.json" beforeDir="false" afterPath="$PROJECT_DIR$/datatest/data_test/26.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/27.json" beforeDir="false" afterPath="$PROJECT_DIR$/datatest/data_test/27.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/28.json" beforeDir="false" afterPath="$PROJECT_DIR$/datatest/data_test/28.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/29.json" beforeDir="false" afterPath="$PROJECT_DIR$/datatest/data_test/29.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/3.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/3.json" beforeDir="false" afterPath="$PROJECT_DIR$/datatest/data_test/3.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/30.json" beforeDir="false" afterPath="$PROJECT_DIR$/datatest/data_train/30.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/4.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/4.json" beforeDir="false" afterPath="$PROJECT_DIR$/datatest/data_test/4.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/5.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/5.json" beforeDir="false" afterPath="$PROJECT_DIR$/datatest/data_test/5.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/6.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/6.json" beforeDir="false" afterPath="$PROJECT_DIR$/datatest/data_train/6.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/7.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/7.json" beforeDir="false" afterPath="$PROJECT_DIR$/datatest/data_test/7.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/8.json" beforeDir="false" afterPath="$PROJECT_DIR$/datatest/data_train/8.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/9.json" beforeDir="false" afterPath="$PROJECT_DIR$/datatest/data_train/9.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datatest/data_test/6.json" beforeDir="false" afterPath="$PROJECT_DIR$/datatest/data_train/1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datatest/data_train/1.json" beforeDir="false" afterPath="$PROJECT_DIR$/datatest/data_test/6.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output.py" beforeDir="false" afterPath="$PROJECT_DIR$/output.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/synsets_extraction.py" beforeDir="false" afterPath="$PROJECT_DIR$/synsets_extraction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -48,65 +18,24 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="12.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/datatest/data_test/12.json">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+            <state relative-caret-position="394">
+              <caret line="150" column="45" selection-start-line="150" selection-start-column="45" selection-end-line="150" selection-end-column="45" />
+              <folding>
+                <element signature="e#0#33#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="15.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/datatest/data_test/15.json">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="16.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/datatest/data_test/16.json">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="17.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/datatest/data_test/17.json">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="19.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/datatest/data_test/19.json">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="21.json" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/datatest/data_train/21.json">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="22.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/datatest/data_test/22.json">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="18.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/datatest/data_test/18.json">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="10.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/datatest/data_train/10.json">
+      <file leaf-file-name="output.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/output.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="1" selection-start-column="1" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="7.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/datatest/data_test/7.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+            <state relative-caret-position="374">
+              <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -138,14 +67,15 @@
         <option value="$PROJECT_DIR$/datatest/5.json" />
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/datatest/output.py" />
-        <option value="$PROJECT_DIR$/main.py" />
-        <option value="$PROJECT_DIR$/synsets_extraction.py" />
         <option value="$PROJECT_DIR$/datatest/7.json" />
         <option value="$PROJECT_DIR$/datatest/8.json" />
         <option value="$PROJECT_DIR$/datatest/9.json" />
         <option value="$PROJECT_DIR$/datatest/10.json" />
         <option value="$PROJECT_DIR$/datatest/11.json" />
         <option value="$PROJECT_DIR$/datatest/12.json" />
+        <option value="$PROJECT_DIR$/synsets_extraction.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/output.py" />
       </list>
     </option>
   </component>
@@ -180,12 +110,6 @@
               <item name="datatest" type="462c0819:PsiDirectoryNode" />
               <item name="data_test" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="synsets-extract" type="b2602c69:ProjectViewProjectNode" />
-              <item name="synsets-extract" type="462c0819:PsiDirectoryNode" />
-              <item name="datatest" type="462c0819:PsiDirectoryNode" />
-              <item name="data_train" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -199,6 +123,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Arya\Documents\PRIMAANANDA\synsets-extract\datatest\data_test" />
+      <recent name="C:\Users\Arya\Documents\PRIMAANANDA\synsets-extract\datatest\data_train" />
       <recent name="C:\Users\Arya\Documents\PRIMAANANDA\synsets-extract" />
     </key>
   </component>
@@ -354,15 +280,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16773504" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3650273" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3650273" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3125683" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3125683" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3989071" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -371,7 +298,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32896176" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -383,65 +310,37 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/datatest/data_test/5.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datatest/data_test/1.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datatest/sample.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+        <state>
+          <caret column="25" lean-forward="true" selection-start-column="25" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/synsets_extraction.py">
+    <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1144">
-          <caret line="54" column="23" selection-start-line="54" selection-start-column="23" selection-end-line="54" selection-end-column="23" />
+        <state relative-caret-position="17">
+          <caret line="11" column="72" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="72" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datatest/sample.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hierarchical_clustering.py" />
-    <entry file="file://$PROJECT_DIR$/hierarchical_clustering.py" />
-    <entry file="file://$PROJECT_DIR$/synsets_extraction.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hierarchical_clustering.py" />
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/unittest/case.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="632" selection-start-line="632" selection-end-line="632" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/json/decoder.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="354" selection-start-line="354" selection-end-line="354" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/datatest/data_train/13.json" />
+    <entry file="file://$PROJECT_DIR$/datatest/data_train/14.json" />
+    <entry file="file://$PROJECT_DIR$/datatest/data_train/20.json" />
+    <entry file="file://$PROJECT_DIR$/datatest/data_train/11.json" />
+    <entry file="file://$PROJECT_DIR$/datatest/data_test/24.json" />
+    <entry file="file://$PROJECT_DIR$/datatest/data_test/25.json" />
+    <entry file="file://$PROJECT_DIR$/datatest/data_test/26.json" />
+    <entry file="file://$PROJECT_DIR$/datatest/data_test/27.json" />
+    <entry file="file://$PROJECT_DIR$/datatest/data_test/28.json" />
+    <entry file="file://$PROJECT_DIR$/datatest/data_test/29.json" />
+    <entry file="file://$PROJECT_DIR$/datatest/data_train/30.json" />
+    <entry file="file://$PROJECT_DIR$/datatest/data_test/23.json" />
+    <entry file="file://$PROJECT_DIR$/datatest/data_test/22.json" />
+    <entry file="file://$PROJECT_DIR$/datatest/data_train/21.json" />
     <entry file="file://$PROJECT_DIR$/datatest/sample.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
+        <state relative-caret-position="731">
           <caret line="43" column="18" lean-forward="true" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
         </state>
       </provider>
@@ -453,55 +352,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="25" lean-forward="true" selection-start-column="25" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
-          <folding>
-            <element signature="e#0#33#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/synsets_extraction.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="36" column="29" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
+        <state relative-caret-position="799">
+          <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
+    <entry file="file://$PROJECT_DIR$/datatest/data_train/1.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datatest/data_train/2.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datatest/data_train/3.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datatest/data_train/4.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datatest/data_train/5.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datatest/data_train/6.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="11" column="72" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="72" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="170">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/datatest/data_train/13.json">
+    <entry file="file://$PROJECT_DIR$/datatest/data_train/7.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/datatest/data_train/14.json">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/datatest/data_train/8.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/datatest/data_train/20.json">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/datatest/data_train/9.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datatest/data_train/10.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/datatest/data_test/1.json">
       <provider selected="true" editor-type-id="text-editor">
@@ -517,13 +419,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/datatest/data_test/4.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/datatest/data_test/3.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -531,106 +426,125 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/datatest/data_train/8.json">
+    <entry file="file://$PROJECT_DIR$/datatest/data_test/4.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+        <state relative-caret-position="136">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/datatest/data_train/9.json">
+    <entry file="file://$PROJECT_DIR$/datatest/data_test/5.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datatest/data_test/6.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datatest/data_test/7.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datatest/data_test/8.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datatest/data_test/9.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datatest/data_test/10.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datatest/data_test/11.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datatest/data_test/12.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datatest/data_test/13.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="8" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datatest/data_test/14.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="8" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datatest/data_test/15.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datatest/data_test/16.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="8" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datatest/data_test/17.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="8" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datatest/data_test/18.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="8" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datatest/data_test/19.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datatest/data_test/20.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/datatest/data_train/11.json">
+    <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        <state relative-caret-position="394">
+          <caret line="150" column="45" selection-start-line="150" selection-start-column="45" selection-end-line="150" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/datatest/data_test/24.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datatest/data_test/25.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datatest/data_test/26.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datatest/data_test/27.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datatest/data_test/28.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datatest/data_test/29.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datatest/data_train/30.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datatest/data_test/5.json">
+    <entry file="file://$PROJECT_DIR$/output.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        <state relative-caret-position="374">
+          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datatest/data_train/6.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datatest/data_test/23.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datatest/data_train/10.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datatest/data_test/7.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datatest/data_test/12.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datatest/data_test/15.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datatest/data_test/16.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datatest/data_test/17.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datatest/data_test/18.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datatest/data_test/19.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datatest/data_test/22.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datatest/data_train/21.json">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

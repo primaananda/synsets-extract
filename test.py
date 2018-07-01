@@ -6,7 +6,7 @@ from synsets_extraction import alt_gen
 class SyncSetTest(unittest.TestCase):
     
     def test_sample(self):
-        file = open('datatest/1.json')
+        file = open('datatest/6.json')
         input = alt_gen('ahad', file)
         file.close()
         output = [['ahad', 'minggu'], ['ahad', 'esa', 'satu', 'tunggal']]
@@ -41,7 +41,7 @@ class SyncSetTest(unittest.TestCase):
         self.assertEqual(input, output, '\nresult: {}\nexpected: {}'.format(input, output))
 
     def test_sample6(self):
-        file = open('datatest/6.json')
+        file = open('datatest/1.json')
         input = alt_gen('abu', file)
         file.close()
         output = [['abu', 'abuk']]
