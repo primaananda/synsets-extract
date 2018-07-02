@@ -26,7 +26,7 @@ if __name__ == '__main__':
     # for x in synsets_file2:
     #     synsets_final.append(x)
 
-    file1 = open('datatest/data_test/1.json')
+    file1 = open('datatest/data_test/21.json')
     synsets1 = alt_gen('ahad', file1)
     for x in synsets1:
         synsets_final.append(x)
@@ -126,6 +126,56 @@ if __name__ == '__main__':
     for x in synsets20:
         synsets_final.append(x)
 
+    file21 = open('datatest/data_test/21.json')
+    synsets21 = alt_gen('minggu', file21)
+    for x in synsets21:
+        synsets_final.append(x)
+
+    file22 = open('datatest/data_test/22.json')
+    synsets22 = alt_gen('esa', file22)
+    for x in synsets22:
+        synsets_final.append(x)
+
+    file23 = open('datatest/data_test/23.json')
+    synsets23 = alt_gen('pengguguran', file23)
+    for x in synsets23:
+        synsets_final.append(x)
+
+    file24 = open('datatest/data_test/24.json')
+    synsets24 = alt_gen('pasar', file24)
+    for x in synsets24:
+        synsets_final.append(x)
+
+    file25 = open('datatest/data_test/25.json')
+    synsets25 = alt_gen('rekan', file25)
+    for x in synsets25:
+        synsets_final.append(x)
+
+    file26 = open('datatest/data_test/26.json')
+    synsets26 = alt_gen('kopiah', file26)
+    for x in synsets26:
+        synsets_final.append(x)
+
+    file27 = open('datatest/data_test/27.json')
+    synsets27 = alt_gen('songkok', file27)
+    for x in synsets27:
+        synsets_final.append(x)
+
+    file28 = open('datatest/data_test/28.json')
+    synsets28 = alt_gen('parafin', file28)
+    for x in synsets28:
+        synsets_final.append(x)
+
+    file29 = open('datatest/data_test/29.json')
+    synsets29 = alt_gen('parasit', file29)
+    for x in synsets29:
+        synsets_final.append(x)
+
+    file30 = open('datatest/data_test/30.json')
+    synsets30 = alt_gen('serbat', file30)
+    for x in synsets30:
+        synsets_final.append(x)
+
     file1.close()
     file2.close()
     file3.close()
@@ -146,7 +196,20 @@ if __name__ == '__main__':
     file18.close()
     file19.close()
     file20.close()
+    file21.close()
+    file22.close()
+    file23.close()
+    file24.close()
+    file25.close()
+    file26.close()
+    file27.close()
+    file28.close()
+    file29.close()
+    file30.close()
+
+    for x in synsets_final:
+        print(x)
 
     akurasi = f1_score(synsets_final, synsets_manual)
 
-    print('ini akurasi', akurasi)
+    print('akurasi', akurasi)

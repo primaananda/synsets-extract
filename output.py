@@ -18,4 +18,7 @@ synsets_manual = [['ahad', 'minggu'],
                   ['lamur', 'rabun'],
                   ['perkakas', 'radas'],
                   ['persentase'],
-                  ['bandrek', 'serbuk']]
+                  ['bandrek', 'serbuk'],
+                  ['minggu', 'pekan'],
+                  ['kopiah', 'peci', 'songkok'],
+                  ['benalu', 'parasit', 'pasilan']]

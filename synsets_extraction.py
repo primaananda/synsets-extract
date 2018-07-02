@@ -39,7 +39,7 @@ def evaluate_synsets(matrik):
     # for col_name, column in matrik.transpose().iterrows():
     #     print(column)
     for name, values in matrik.iteritems():
-        print('{name}: {value}'.format(name=name, value=values[0]))
+        #print('{name}: {value}'.format(name=name, value=values[0]))
         count_true += matrik[name].value_counts()
     # for colm in matrik:
     #     print('colm ', colm)
@@ -49,14 +49,14 @@ def evaluate_synsets(matrik):
     #     #print(matrik[colm].value_counts())
     #print(count_true)
     series = matrik.all()
-    print(series)
+    #print(series)
     result = series[series == True]
     return sorted(set(result.index))
 
 def alt_gen(word, file):
     thesa = json.load(file)
     matrixs = check_validation(word, thesa)
-    print(matrixs)
+    #print(matrixs)
     sets_list = []
     for matrix in matrixs:
         synset = evaluate_synsets(matrix)
