@@ -11,6 +11,8 @@ def f1_score(synsets_program, synsets_manual):
     for program, manual in zip(synsets_program, synsets_manual):
         if program == manual:
             relevant_synset += 1
+        else:
+            print(program)
     precision = relevant_synset/retrieved_synsets_program
     recall = relevant_synset/retrieved_synsets_manual
     f1score = 2 * precision*recall/(precision+recall)
