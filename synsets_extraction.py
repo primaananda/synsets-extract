@@ -37,14 +37,23 @@ def check_validation(word, thesa):
 
 def evaluate_synsets(matrik, word):
     synsets = []
-    for i in range(2, len(matrik.index)+1):
+    for i in range(len(matrik.index), 1, -1):
         for k in itertools.combinations(matrik.index, i):
             sub_matrix = matrik.loc[list(k), list(k)]
 
             is_synset = all(sub_matrix.all().values)
             if is_synset:
-                synsets.append(sorted(sub_matrix.all().index))
-    return synsets
+                new_synset = sorted(sub_matrix.all().index)
+                similar = False
+                for syn in synsets:
+                    if set(new_synset) < set(syn):
+                        similar = True
+                if not similar:
+                    synsets.append(new_synset)
+    if len(synsets) == 0:
+        synsets = [word]
+    #print(synsets)
+    return sorted(synsets)
 
 def alt_gen(word, file):
     thesa = json.load(file)
