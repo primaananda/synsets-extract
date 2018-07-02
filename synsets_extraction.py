@@ -1,3 +1,4 @@
+import itertools
 import json
 import pandas as pd
 import numpy as np
@@ -34,24 +35,16 @@ def check_validation(word, thesa):
         output.append(matrik)
     return output
 
-def evaluate_synsets(matrik):
-    count_true = 0
-    # for col_name, column in matrik.transpose().iterrows():
-    #     print(column)
-    for name, values in matrik.iteritems():
-        #print('{name}: {value}'.format(name=name, value=values[0]))
-        count_true += matrik[name].value_counts()
-    # for colm in matrik:
-    #     print('colm ', colm)
-    #     print('matrik[colm] ', matrik[colm].index[1])
-    #     #print(matrik[colm].index.values)
-    #     count_true += matrik[colm].value_counts(True)
-    #     #print(matrik[colm].value_counts())
-    #print(count_true)
-    series = matrik.all()
-    #print(series)
-    result = series[series == True]
-    return sorted(set(result.index))
+def evaluate_synsets(matrik, word):
+    synsets = []
+    for i in range(2, len(matrik.index)+1):
+        for k in itertools.combinations(matrik.index, i):
+            sub_matrix = matrik.loc[list(k), list(k)]
+
+            is_synset = all(sub_matrix.all().values)
+            if is_synset:
+                synsets.append(sorted(sub_matrix.all().index))
+    return synsets
 
 def alt_gen(word, file):
     thesa = json.load(file)
@@ -59,6 +52,6 @@ def alt_gen(word, file):
     #print(matrixs)
     sets_list = []
     for matrix in matrixs:
-        synset = evaluate_synsets(matrix)
+        synset = evaluate_synsets(matrix, word)
         sets_list.append(synset)
     return sets_list
