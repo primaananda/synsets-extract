@@ -48,7 +48,7 @@ def evaluate_synsets(matrik, word):
                 for syn in synsets:
                     if set(new_synset) < set(syn):
                         similar = True
-                if not similar:
+                if not similar and word in new_synset:
                     synsets.append(new_synset)
     if len(synsets) == 0:
         synsets = [word]

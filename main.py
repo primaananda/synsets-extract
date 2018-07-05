@@ -13,6 +13,10 @@ def f1_score(synsets_program, synsets_manual):
             relevant_synset += 1
         else:
             print(program)
+    print()
+    print('Jumlah synsets program : ', retrieved_synsets_program)
+    print('Jumlah synsets manual : ', retrieved_synsets_manual)
+    print('Jumlah synsets yang sama : ', retrieved_synsets_program)
     precision = relevant_synset/retrieved_synsets_program
     recall = relevant_synset/retrieved_synsets_manual
     f1score = 2 * precision*recall/(precision+recall)
@@ -172,9 +176,17 @@ if __name__ == '__main__':
     file29.close()
     file30.close()
 
+    list_kata = ['ahad', 'setanggi', 'aborsi', 'pekan', 'lebu', 'abu', 'peci',
+                 'koran', 'susur', 'temu', 'suar', 'lilin', 'sakat', 'satwa', 'binatang',
+                 'fiksi', 'lamur', 'radas', 'presentase', 'bandrek', 'minggu',
+                 'esa', 'pengguguran', 'pasar', 'rekan', 'kopiah', 'songkok', 'parafin',
+                 'parasi', 'serbat']
+    count = 0
+    print('Synsets hasil program - synset manual(Gold Standard)')
     for x, y in zip(synsets_final, synsets_manual):
-        print(x , ' - ', y)
+        count += 1
+        print('Kata ke-',count , list_kata[count-1], '= ' ,x , ' - ', y)
 
     akurasi = f1_score(synsets_final, synsets_manual)
-
-    print('akurasi', akurasi)
+    print()
+    print('akurasi hasil : ', akurasi)
