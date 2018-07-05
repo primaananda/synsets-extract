@@ -3,6 +3,7 @@ from synsets_extraction import alt_gen
 
 
 def f1_score(synsets_program, synsets_manual):
+
     relevant_synset = 0
     retrieved_synsets_program = len(synsets_program)
     retrieved_synsets_manual = len(synsets_manual)
@@ -14,9 +15,19 @@ def f1_score(synsets_program, synsets_manual):
         else:
             print(program)
     print()
-    print('Jumlah synsets program : ', retrieved_synsets_program)
-    print('Jumlah synsets manual : ', retrieved_synsets_manual)
-    print('Jumlah synsets yang sama : ', retrieved_synsets_program)
+    count_program = 0
+    for matriks in synsets_program:
+        for synset1 in matriks:
+            for syn in synset1:
+                count_program += 1
+    count_manual = 0
+    for matriks2 in synsets_manual:
+        for synset2 in matriks2:
+            for syn2 in synset2:
+                count_manual += 1
+    print('Jumlah synsets program : ', count_program)
+    print('Jumlah synsets manual : ', count_manual)
+    print('Jumlah synsets yang sama : ', count_program)
     precision = relevant_synset/retrieved_synsets_program
     recall = relevant_synset/retrieved_synsets_manual
     f1score = 2 * precision*recall/(precision+recall)
