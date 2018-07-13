@@ -31,6 +31,8 @@ def f1_score(synsets_program, synsets_manual):
     precision = relevant_synset/retrieved_synsets_program
     recall = relevant_synset/retrieved_synsets_manual
     f1score = 2 * precision*recall/(precision+recall)
+    print('precision', precision)
+    print('recall', recall)
     return f1score*100
 
 if __name__ == '__main__':
