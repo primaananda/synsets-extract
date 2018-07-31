@@ -1,0 +1,32 @@
+{
+  "mangkir": [
+    ["absen", "cabut", "desersi", "lari", "mabal", "membolos"]
+  ],
+  "absen": [
+    ["bolos", "mangkir"]
+  ],
+  "cabut": [
+    ["melepaskan", "membetot", "membuang", "membubut", "menanggalkan", "menarik",
+    "mencopot", "mendudut", "mengeluarkan", "menghunus", "mengumbut", "menyasap",
+    "menyentuk", "menyiangi", "merabut", "merapih", "merengut", "merugut", "merumput"],
+    ["melambatkan", "memansuhkan", "membantun", "membatalkan", "memutuskan",
+    "menangguhkan", "menarik", "menghapuskan", "menghentikan", "mengulur-ulurkan",
+    "mengundurkan", "mengungkai", "mengurungkan", "meniadakan", "menunda"],
+    ["angkat kaki", "keluar", "lari", "pergi"],
+    ["melucutkan", "membebaskan", "memecat", "mendepak", "mengeluarkan", "menyingkirkan"]
+  ],
+  "desersi": [
+    ["mangkir", "pelarian", "pembelotan", "pendurhakaan", "pengkhianatan", "penyelewengan"]
+  ],
+  "lari": [
+    ["kabur", "pergi", "desersi", "mangkir", "mengelak", "menghindar"],
+    ["hilang", "lenyap"],
+    ["bergeser", "melenceng", "memeleset", "menyimpang"]
+  ],
+  "mabal": [
+    []
+  ],
+  "membolos": [
+    ["absen", "mangkir"]
+  ]
+}

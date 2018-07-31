@@ -1,0 +1,44 @@
+{
+  "kakak": [
+    ["abang", "akang", "ayu", "empok", "kakanda", "kakang", "kangmas", "mas", "mbak"
+    , "mbakyu", "teteh", "uda"]
+  ],
+  "abang": [
+    ["akang", "kakak", "kakanda", "kakang", "kanda", "kangmas", "mas", "raka",
+    "uda"]
+  ],
+  "akang": [
+    []
+  ],
+  "ayu": [
+    ["baik", "cantik", "cendayam", "elok", "geulis", "indah", "jelita", "juwita", "kirana"
+    , "laksmi", "manis", "menawan", "molek", "permai", "rupa"]
+  ],
+  "empok": [
+    []
+  ],
+  "kakanda": [
+    []
+  ],
+  "kakang": [
+    ["abang", "akang", "kangmas", "mas", "uda"]
+  ],
+  "kangmas": [
+    ["abang", "akang", "kakanda", "mas", "raka", "uda", "kakak"]
+  ],
+  "mas": [
+    ["abang", "akang", "kakanda", "kakang", "kangmas", "raka", "uda"]
+  ],
+  "mbak": [
+    []
+  ],
+  "mbakyu": [
+    []
+  ],
+  "teteh": [
+    []
+  ],
+  "uda": [
+    ["abang", "akang", "kakak", "kakanda", "kakang", "kangmas", "raka"]
+  ]
+}

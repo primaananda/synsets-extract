@@ -1,0 +1,34 @@
+{
+  "abang": [
+    ["akang", "kakak", "kakanda", "kakang", "kanda", "kangmas", "mas", "raka",
+    "uda"]
+  ],
+  "akang": [
+    []
+  ],
+  "kakak": [
+    ["abang", "akang", "ayu", "empok", "kakanda", "kakang", "kangmas", "mas", "mbak"
+    , "mbakyu", "teteh", "uda"]
+  ],
+  "kakanda": [
+    []
+  ],
+  "kakang": [
+    ["abang", "akang", "kangmas", "mas", "uda"]
+  ],
+  "kanda": [
+    []
+  ],
+  "kangmas": [
+    ["abang", "akang", "kakanda", "mas", "raka", "uda", "kakak"]
+  ],
+  "mas": [
+    ["abang", "akang", "kakanda", "kakang", "kangmas", "raka", "uda"]
+  ],
+  "raka": [
+    []
+  ],
+  "uda": [
+    ["abang", "akang", "kakak", "kakanda", "kakang", "kangmas", "raka"]
+  ]
+}

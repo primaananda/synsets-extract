@@ -1,0 +1,21 @@
+{
+  "kakang": [
+    ["abang", "akang", "kangmas", "mas", "uda"]
+  ],
+  "abang": [
+    ["akang", "kakak", "kakanda", "kakang", "kanda", "kangmas", "mas", "raka",
+    "uda"]
+  ],
+  "akang": [
+    []
+  ],
+  "kangmas": [
+    ["abang", "akang", "kakanda", "mas", "raka", "uda", "kakak"]
+  ],
+  "mas": [
+    ["abang", "akang", "kakanda", "kakang", "kangmas", "raka", "uda"]
+  ],
+  "uda": [
+    ["abang", "akang", "kakak", "kakanda", "kakang", "kangmas", "raka"]
+  ]
+}

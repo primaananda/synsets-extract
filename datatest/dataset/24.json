@@ -1,0 +1,11 @@
+{
+  "apologi": [
+    ["pembelaan", "pledoi"]
+  ],
+  "pembelaan": [
+    ["advokasi", "apologi", "defensi", "pertahanan", "pledoi"]
+  ],
+  "pledoi": [
+    []
+  ]
+}

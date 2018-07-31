@@ -1,0 +1,26 @@
+{
+  "aduk": [
+    ["baur", "campur", "kacau"]
+  ],
+  "baur": [
+    ["aduk", "bancuh", "berjodoh", "campur", "difusi", "gaul", "kacau", "kawin",
+      "larut", "lebur", "lumat", "menyatu", "nikah", "padu", "sabur"],
+    ["balam-balam", "dubius", "ilam-ilam", "kabur", "kabut", "kelam", "keruh", "lamat-lamat",
+      "membalam", "merencam", "pirau", "redam", "redup", "remang",
+      "sabah", "samar-samar", "saru", "sayup-sayup", "sebam", "suram", "taksa",
+      "terang-terang laras"]
+  ],
+  "campur": [
+    ["aduk", "bancuh", "baur", "gaul", "kacau", "karan", "larut", "sabur"],
+    ["bersama", "gabung"]
+  ],
+  "kacau": [
+    ["bancuh", "baur", "berantakan", "berkaru", "bingung", "buyar", "gaul", "haru biru",
+      "kacau balau", "kacuk", "kalut", "kelamkabut", "keruh", "lopak-lapik", "rancu",
+      "ricuh", "rusak", "teraduk-aduk", "tercampur"],
+    ["bimbang", "buncah", "cemas", "cabuh", "gaduh", "gelisah", "gempar",
+      "heboh", "hingar", "hiruk", "hiruk-pikuk", "huru-hara", "khawatir", "kiruh",
+      "kulut", "kusut", "lopak-lapik", "onar", "ribut", "riuh", "riuh rendah", "resah",
+      "risau", "rumit", "rusuh", "was-was"]
+  ]
+}

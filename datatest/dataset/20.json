@@ -1,0 +1,14 @@
+{
+  "maharaja": [
+    ["adiraja", "kaisar", "raja diraja"]
+  ],
+  "adiraja": [
+    ["kaisar", "maharaja", "raja diraja"]
+  ],
+  "kaisar": [
+    ["adiraja", "maharaja", "raja diraja"]
+  ],
+  "raja diraja": [
+    []
+  ]
+}

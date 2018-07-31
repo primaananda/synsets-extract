@@ -1,0 +1,11 @@
+{
+  "bolos": [
+    ["absen", "mangkir"]
+  ],
+  "absen": [
+    ["bolos", "mangkir"]
+  ],
+  "mangkir": [
+    ["absen", "cabut", "desersi", "lari", "mabal", "membolos"]
+  ]
+}

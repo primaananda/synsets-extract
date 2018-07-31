@@ -1,0 +1,14 @@
+{
+  "bupati": [
+    ["regen", "tumenggung", "wedana"]
+  ],
+  "regen": [
+    []
+  ],
+  "tumenggung": [
+    ["bupati", "regen "]
+  ],
+  "wedana": [
+    ["demang", "kepala kampung"]
+  ]
+}

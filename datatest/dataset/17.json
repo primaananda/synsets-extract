@@ -1,0 +1,11 @@
+{
+  "tumenggung": [
+    ["bupati", "regen"]
+  ],
+  "bupati": [
+    ["regen", "tumenggung", "wedana"]
+  ],
+  "regen": [
+    []
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "abrasi": [
+    ["erosi", "pengikisan"]
+  ],
+  "erosi": [
+    ["abrasi", "pengikisan"]
+  ],
+  "pengikisan": [
+    ["abrasi", "erosi"]
+  ]
+}

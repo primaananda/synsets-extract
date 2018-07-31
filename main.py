@@ -203,3 +203,7 @@ if __name__ == '__main__':
     akurasi = f1_score(synsets_final, synsets_manual)
     print()
     print('akurasi hasil : ', akurasi)
+
+    #====================
+
+    list_kata2 = ['abang', 'kakak', 'kakang']

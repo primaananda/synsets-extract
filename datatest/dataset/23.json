@@ -1,0 +1,21 @@
+{
+  "pembelaan": [
+    ["advokasi", "apologi", "defensi", "pertahanan", "pledoi"]
+  ],
+  "advokasi": [
+    ["pembelaan"]
+  ],
+  "apologi": [
+    ["pembelaan", "pledoi"]
+  ],
+  "defensi": [
+    ["benteng", "pembelaan", "penjagaan", "pertahanan", "proteksi"]
+  ],
+  "pertahanan": [
+    ["defensi", "penjagaan", "proteksi"],
+    ["baluwarti", "benteng", "kubu"]
+  ],
+  "pledoi": [
+    []
+  ]
+}

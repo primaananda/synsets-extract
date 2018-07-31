@@ -40,7 +40,7 @@ def evaluate_synsets(matrik, word):
     for i in range(len(matrik.index), 1, -1):
         for k in itertools.combinations(matrik.index, i):
             sub_matrix = matrik.loc[list(k), list(k)]
-
+            #print(k)
             is_synset = all(sub_matrix.all().values)
             if is_synset:
                 new_synset = sorted(sub_matrix.all().index)
