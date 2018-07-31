@@ -1,0 +1,14 @@
+{
+  "akomodasi": [
+    ["fasilitas", "kemudahan"]
+  ],
+  "fasilitas": [
+    ["akomodasi", "alat", "kelawasan", "keleluasaan", "kelonggaran", "keluasan",
+      "kemudahan", "keringanan", "kesempatan", "prasarana", "sarana", "wahana"],
+    ["layanan", "pelayanan", "servis"]
+  ],
+  "kemudahan": [
+    ["fasilitas", "keentengan", "kesenangan", "kelapangan", "kesederhanaan", "keringanan",
+      "kelegaan", "keluasan"]
+  ]
+}

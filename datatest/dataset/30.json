@@ -1,0 +1,13 @@
+{
+  "amunisi": [
+    ["mesiu", "puder"]
+  ],
+  "mesiu": [
+    ["amunisi", "bahan peledak", "peluru"]
+  ],
+  "puder": [
+    ["bubuk", "tepung", "talk"],
+    ["bedak", "perona pipi", "pupur"],
+    ["amunisi", "mesiu"]
+  ]
+}

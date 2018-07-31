@@ -1,0 +1,19 @@
+{
+  "aksara": [
+    ["abjad", "huruf", "karakter"]
+  ],
+  "abjad": [
+    ["abc", "abece", "aksara", "alfabet", "alif-ba-ta", "fonem", "hiroglif", "huruf",
+    "ideograf", "kritogram", "piktograf", "tulisan"]
+  ],
+  "huruf": [
+    ["abjad", "aksara", "karakter", "konsonan", "leter", "sastra", "tulisan", "vokal"]
+  ],
+  "karakter": [
+    ["aksara", "huruf", "leter"],
+    ["lambang", "markah", "simbol", "tanda"],
+    ["bawaan", "hati", "jiwa", "kepribadian", "budi pekerti", "perilaku",
+    "personalitas", "sifat", "tabiat", "temperamen", "watak"],
+    ["ciri", "karakteristik", "keunikan"]
+  ]
+}
