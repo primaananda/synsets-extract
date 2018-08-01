@@ -1,0 +1,8 @@
+{
+  "arteri": [
+    ["nadi", "aorta"]
+  ],
+  "nadi": [
+    ["aorta", "arteri", "pembuluh"]
+  ]
+}

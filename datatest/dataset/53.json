@@ -1,0 +1,13 @@
+{
+  "atensi": [
+    ["minat", "perhatian"]
+  ],
+  "minat": [
+    ["animo", "atensi", "hasrat", "hobi", "interes", "kecenderungan", "kecondongan",
+      "kegemaran", "kehendak", "keinginan", "kepentingan", "kesenangan",
+      "kesukaan", "ketertarikan", "perendahan", "perhatian", "pikiran", "selera"]
+  ],
+  "perhatian": [
+    ["atensi", "afeksi", "animo", "kepedulian", "ketertarikan", "minat", "pengindahan"]
+  ]
+}

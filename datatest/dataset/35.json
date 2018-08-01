@@ -1,0 +1,13 @@
+{
+  "anteng": [
+    ["kalem", "tenang"]
+  ],
+  "kalem": [
+    ["anteng", "lembut", "pendiam", "tenang"],
+    ["lunak", "rileks", "sabar", "santai"]
+  ],
+  "tenang": [
+    ["diam", "hening", "mati", "ranah", "senyap", "sepi", "sirep", "sunyi"],
+    ["anteng", "kalem", "kepala dingin", "lega", "pendiam", "sabar", "santai"]
+  ]
+}

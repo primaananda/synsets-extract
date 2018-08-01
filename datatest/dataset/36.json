@@ -1,0 +1,11 @@
+{
+  "antup": [
+    ["sengat", "tandik"]
+  ],
+  "sengat": [
+    ["antup", "sundak", "tandik"]
+  ],
+  "tandik": [
+    []
+  ]
+}

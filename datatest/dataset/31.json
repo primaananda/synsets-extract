@@ -1,0 +1,16 @@
+{
+  "anekdot": [
+    ["cerita", "kisah"]
+  ],
+  "cerita": [
+    ["riwayat", "sejarah"],
+    ["alkisah", "lakon", "stori", "warita", "anekdot", "deskripsi", "narasi", "tuturan"],
+    ["fiksi", "karangan", "prosa", "rencana"],
+    ["babad", "dongeng", "hikayat", "tambo"],
+    ["bual", "isapan jempol", "omong kosong", "tahi angin", "cerita anak",
+      "cerita rekaan", "cerita khayal"]
+  ],
+  "kisah": [
+    ["cerita", "dongeng", "lakon", "narasi", "stori", "warita", "asal usul", "riwayat", "sejarah"]
+  ]
+}

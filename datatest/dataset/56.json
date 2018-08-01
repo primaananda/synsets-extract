@@ -1,0 +1,8 @@
+{
+  "atlet": [
+    ["olahragawan"]
+  ],
+  "olahragawan": [
+    ["atlet"]
+  ]
+}

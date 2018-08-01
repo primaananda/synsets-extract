@@ -1,0 +1,10 @@
+{
+  "atrium": [
+    ["serambi", "rongga dada"]
+  ],
+  "serambi": [
+    ["beranda", "emper", "geladeri", "selasar", "sengkuap", "tepas", "teras"],
+    ["peron"],
+    ["atrium", "rongga dada"]
+  ]
+}

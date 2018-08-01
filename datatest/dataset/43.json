@@ -1,0 +1,8 @@
+{
+  "arit": [
+    ["clurit", "sabit"]
+  ],
+  "sabit": [
+    ["arit", "ceruk", "cerut",  "clurit", "penyadap"]
+  ]
+}

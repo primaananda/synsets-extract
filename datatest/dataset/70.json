@@ -1,0 +1,16 @@
+{
+  "ayun": [
+    ["buai", "gerak", "goyang"]
+  ],
+  "buai": [
+    ["ayunan", "lenggang"]
+  ],
+  "gerak": [
+    ["debar", "denyut", "detak", "garit", "kejut", "renyut"],
+    ["aksi", "dinamika", "dorongan"]
+  ],
+  "goyang": [
+    ["ayun", "buncang", "gegar", "getar", "guncang", "oleng", "merewang"],
+    ["goyah", "ruat"]
+  ]
+}

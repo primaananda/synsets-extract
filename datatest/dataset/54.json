@@ -1,0 +1,11 @@
+{
+  "atlas": [
+    ["denah", "kar", "peta"]
+  ],
+  "denah": [
+    ["atlas", "bagan", "gambar", "lukisan", "penampang", "peta", "rajah", "rancangan", "skema"]
+  ],
+  "peta": [
+    ["atlas", "denah"]
+  ]
+}

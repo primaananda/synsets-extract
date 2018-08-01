@@ -1,0 +1,15 @@
+{
+  "kredit": [
+    ["angsuran", "cicilan"],
+    ["pinjaman", "utang"]
+  ],
+  "angsuran": [
+    ["cicilan", "kredit"]
+  ],
+  "cicilan": [
+    ["angsuran", "kredit"]
+  ],
+  "utang": [
+    ["pinjaman", "sangkutan", "tunggakan"]
+  ]
+}

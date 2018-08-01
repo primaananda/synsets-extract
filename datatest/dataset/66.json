@@ -1,0 +1,17 @@
+{
+  "mega": [
+    ["awan", "gegana", "kabut"]
+  ],
+  "awan": [
+    ["gegana", "mega"]
+  ],
+  "gegana": [
+    ["awan", "mega", "udara"],
+    ["peledak"]
+  ],
+  "kabut": [
+    ["awan,  halimun,  mega"],
+    ["baur", "buram", "ilam-ilam", "kelam", "kusam", "lamat-lamat", "pirau", "redup",
+      "remang", "samar-samar", "sebam", "suram"]
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "zarah": [
+    ["partikel"]
+  ],
+  "partikel": [
+    ["anasir", "atom", "bagian", "elektron", "elemen", "komponen", "konstituen",
+      "molekul", "unsur", "zarah", "zat"]
+  ]
+}

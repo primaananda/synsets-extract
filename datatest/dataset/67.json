@@ -1,0 +1,14 @@
+{
+  "awi": [
+    ["aur", "bambu", "buluh"]
+  ],
+  "aur": [
+    ["ampel", "awi", "bambu", "buluh", "puputan", "sarik"]
+  ],
+  "bambu": [
+    ["ampel", "aur", "awi", "betung", "buluh", "petung"]
+  ],
+  "buluh": [
+    ["ampel", "aur", "awi", "bambu"]
+  ]
+}

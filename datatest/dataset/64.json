@@ -1,0 +1,17 @@
+{
+  "gegana": [
+    ["awan", "mega", "udara"],
+    ["peledak"]
+  ],
+  "awan": [
+    ["gegana", "mega"]
+  ],
+  "mega": [
+    ["awan", "gegana", "kabut"]
+  ],
+  "udara": [
+    ["angin", "cuaca", "hawa"],
+    ["angkasa", "awang-awang", "bumantara", "dirgantara", "gegana", "jumantara", "langit", "tawang"],
+    ["atmosfer", "keadaan", "suasana"]
+  ]
+}

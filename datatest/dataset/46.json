@@ -1,0 +1,11 @@
+{
+  "nadi": [
+    ["aorta", "arteri", "pembuluh"]
+  ],
+  "arteri": [
+    ["nadi", "aorta"]
+  ],
+  "pembuluh": [
+    ["buluh-buluh", "bumbung", "cerobong", "pipa", "salung api", "saluran", "teropong"]
+  ]
+}

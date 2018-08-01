@@ -1,0 +1,12 @@
+{
+  "awan": [
+    ["gegana", "mega"]
+  ],
+  "gegana": [
+    ["awan", "mega", "udara"],
+    ["peledak"]
+  ],
+  "mega": [
+    ["awan", "gegana", "kabut"]
+  ]
+}

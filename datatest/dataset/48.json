@@ -1,0 +1,14 @@
+{
+  "asam": [
+    ["kecut", "masam"]
+  ],
+  "kecut": [
+    ["kedut", "kerut", "kisut", "lisut"],
+    ["bergidik", "cabar hati", "ciut", "cuak", "gamang", "gayat", "gecar", "gentar",
+      "giris", "kader", "kecil hati", "ngeri", "patah hati", "takut"],
+    ["menggeriap", "mengirik", "meremang", "merinding"]
+  ],
+  "masam": [
+    ["asam", "bersut", "cemberut", "kecut", "kelat", "merengus", "merengut", "merengut", "perat"]
+  ]
+}

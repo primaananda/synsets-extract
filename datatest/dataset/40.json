@@ -1,0 +1,11 @@
+{
+  "manggar": [
+    ["arai", "mayang"]
+  ],
+  "arai": [
+    ["manggar", "mayang"]
+  ],
+  "mayang": [
+    ["arai", "bunga kelapa", "manggar"]
+  ]
+}

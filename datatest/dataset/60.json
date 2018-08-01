@@ -1,0 +1,27 @@
+{
+  "molekul": [
+    ["anasir", "atom", "elemen", "partikel", "unsur", "zarah"]
+  ],
+  "anasir": [
+    ["anggota", "bagian", "elemen", "faktor", "komponen", "konstituen", "molekul", "partikel", "unsur"]
+  ],
+  "atom": [
+    ["molekul", "partikel", "zarah"]
+  ],
+  "elemen": [
+    ["anasir", "anggota", "bagian", "butir", "hara", "komponen", "konstituen", "molekul",
+      "partikel", "poin", "unsur", "zat"]
+  ],
+  "partikel": [
+    ["anasir", "atom", "bagian", "elektron", "elemen", "komponen", "konstituen",
+      "molekul", "unsur", "zarah", "zat"]
+  ],
+  "unsur": [
+    ["anasir", "anggota", "bagian", "elemen", "faktor", "komponen", "konstituen",
+      "molekul", "partikel", "zarah", "zat"],
+    ["butir", "poin"]
+  ],
+  "zarah": [
+    ["partikel"]
+  ]
+}

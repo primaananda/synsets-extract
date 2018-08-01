@@ -1,0 +1,8 @@
+{
+  "ayam": [
+    ["mandung"]
+  ],
+  "mandung": [
+    ["ayam", "ayam aduan", "ayam jago", "ayam jantan"]
+  ]
+}
