@@ -1,15 +1,16 @@
 from output import synsets_manual
+from output_validasi_kbbi import  synsets_validasi_kbbi
 from synsets_extraction import alt_gen
 
-
-def f1_score(synsets_program, synsets_manual):
+#nilai f1 score untuk program dengan synset manual hasil validasi dengan kbbi
+def f1_score(synsets_program, synsets_validasi_kbbi):
 
     relevant_synset = 0
     retrieved_synsets_program = len(synsets_program)
-    retrieved_synsets_manual = len(synsets_manual)
+    retrieved_synsets_manual = len(synsets_validasi_kbbi)
     if retrieved_synsets_manual != retrieved_synsets_program:
         raise ValueError('A very specific bad thing happened.')
-    for program, manual in zip(synsets_program, synsets_manual):
+    for program, manual in zip(synsets_program, synsets_validasi_kbbi):
         if program == manual:
             relevant_synset += 1
         else:
@@ -21,26 +22,27 @@ def f1_score(synsets_program, synsets_manual):
             for syn in synset1:
                 count_program += 1
     count_manual = 0
-    for matriks2 in synsets_manual:
+    for matriks2 in synsets_validasi_kbbi:
         for synset2 in matriks2:
             for syn2 in synset2:
                 count_manual += 1
+    print('Nilai precision recall dan f1 score antara program dengan synset validasi dengan kbbi')
     print('Jumlah synsets program : ', count_program)
     print('Jumlah synsets manual : ', count_manual)
     print('Jumlah synsets yang sama : ', count_program)
     precision = relevant_synset/retrieved_synsets_program
     recall = relevant_synset/retrieved_synsets_manual
     f1score = 2 * precision*recall/(precision+recall)
-    print('precision', precision)
-    print('recall', recall)
+    print('precision ', precision * 100)
+    print('recall ', recall * 100)
     return f1score*100
 
 if __name__ == '__main__':
     synsets_final = []
 
     file1 = open('datatest/data_test/1.json')
-    synsets1 = alt_gen('ahad', file1)
-    synsets_final.append(synsets1)
+    synsets1 = alt_gen('ahad', open('datatest/data_test/1.json'))
+    synsets_final.append(alt_gen('ahad', open('datatest/data_test/1.json')))
 
     file2 = open('datatest/data_test/2.json')
     synsets2 = alt_gen('setanggi', file2)
@@ -196,11 +198,11 @@ if __name__ == '__main__':
                  'parasi', 'serbat']
     count = 0
     print('Synsets hasil program - synset manual(Gold Standard)')
-    for x, y in zip(synsets_final, synsets_manual):
+    for x, y in zip(synsets_final, synsets_validasi_kbbi):
         count += 1
         print('Kata ke-',count , list_kata[count-1], '= ' ,x , ' - ', y)
 
-    akurasi = f1_score(synsets_final, synsets_manual)
+    akurasi = f1_score(synsets_final, synsets_validasi_kbbi)
     print()
     print('akurasi hasil : ', akurasi)
 

@@ -2,47 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7cae50f2-249a-477d-b70b-952edc473d29" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/datatest/dataset/62a.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datatest/dataset/63.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datatest/dataset/64.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datatest/dataset/65.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datatest/dataset/66.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datatest/dataset/67.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datatest/dataset/68.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datatest/dataset/69.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datatest/dataset/70.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output_validasi_kbbi.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/dataset/31.json" beforeDir="false" afterPath="$PROJECT_DIR$/datatest/dataset/31.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/dataset/32.json" beforeDir="false" afterPath="$PROJECT_DIR$/datatest/dataset/32.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/dataset/33.json" beforeDir="false" afterPath="$PROJECT_DIR$/datatest/dataset/33.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/dataset/34.json" beforeDir="false" afterPath="$PROJECT_DIR$/datatest/dataset/34.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/dataset/35.json" beforeDir="false" afterPath="$PROJECT_DIR$/datatest/dataset/35.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/dataset/36.json" beforeDir="false" afterPath="$PROJECT_DIR$/datatest/dataset/36.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/dataset/37.json" beforeDir="false" afterPath="$PROJECT_DIR$/datatest/dataset/37.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/dataset/38.json" beforeDir="false" afterPath="$PROJECT_DIR$/datatest/dataset/38.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/dataset/39.json" beforeDir="false" afterPath="$PROJECT_DIR$/datatest/dataset/39.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/dataset/40.json" beforeDir="false" afterPath="$PROJECT_DIR$/datatest/dataset/40.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/dataset/41.json" beforeDir="false" afterPath="$PROJECT_DIR$/datatest/dataset/41.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/dataset/42.json" beforeDir="false" afterPath="$PROJECT_DIR$/datatest/dataset/42.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/dataset/43.json" beforeDir="false" afterPath="$PROJECT_DIR$/datatest/dataset/43.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/dataset/44.json" beforeDir="false" afterPath="$PROJECT_DIR$/datatest/dataset/44.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/dataset/45.json" beforeDir="false" afterPath="$PROJECT_DIR$/datatest/dataset/45.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/dataset/46.json" beforeDir="false" afterPath="$PROJECT_DIR$/datatest/dataset/46.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/dataset/47.json" beforeDir="false" afterPath="$PROJECT_DIR$/datatest/dataset/47.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/dataset/48.json" beforeDir="false" afterPath="$PROJECT_DIR$/datatest/dataset/48.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/dataset/49.json" beforeDir="false" afterPath="$PROJECT_DIR$/datatest/dataset/49.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/dataset/50.json" beforeDir="false" afterPath="$PROJECT_DIR$/datatest/dataset/50.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/dataset/51.json" beforeDir="false" afterPath="$PROJECT_DIR$/datatest/dataset/51.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/dataset/52.json" beforeDir="false" afterPath="$PROJECT_DIR$/datatest/dataset/52.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/dataset/53.json" beforeDir="false" afterPath="$PROJECT_DIR$/datatest/dataset/53.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/dataset/54.json" beforeDir="false" afterPath="$PROJECT_DIR$/datatest/dataset/54.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/dataset/55.json" beforeDir="false" afterPath="$PROJECT_DIR$/datatest/dataset/55.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/dataset/56.json" beforeDir="false" afterPath="$PROJECT_DIR$/datatest/dataset/56.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/dataset/57.json" beforeDir="false" afterPath="$PROJECT_DIR$/datatest/dataset/57.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/dataset/58.json" beforeDir="false" afterPath="$PROJECT_DIR$/datatest/dataset/58.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/dataset/59.json" beforeDir="false" afterPath="$PROJECT_DIR$/datatest/dataset/59.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/dataset/60.json" beforeDir="false" afterPath="$PROJECT_DIR$/datatest/dataset/60.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatest/dataset/61.json" beforeDir="false" afterPath="$PROJECT_DIR$/datatest/dataset/61.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,16 +15,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="output_validasi_kbbi.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/output_validasi_kbbi.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="8" selection-start-column="8" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="293" column="41" lean-forward="true" selection-start-line="293" selection-start-column="41" selection-end-line="293" selection-end-column="41" />
+            <state relative-caret-position="247">
+              <caret line="28" column="96" selection-start-line="28" selection-start-column="96" selection-end-line="28" selection-end-column="96" />
+              <folding>
+                <element signature="e#0#33#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>synsets_manual</find>
+      <find>synsets_manual2</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -71,7 +57,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/datatest/dataset/22.json" />
         <option value="$PROJECT_DIR$/datatest/dataset/23.json" />
         <option value="$PROJECT_DIR$/datatest/dataset/24.json" />
         <option value="$PROJECT_DIR$/datatest/dataset/25.json" />
@@ -121,11 +106,12 @@
         <option value="$PROJECT_DIR$/datatest/dataset/68.json" />
         <option value="$PROJECT_DIR$/datatest/dataset/69.json" />
         <option value="$PROJECT_DIR$/datatest/dataset/70.json" />
+        <option value="$PROJECT_DIR$/output_validasi_kbbi.py" />
         <option value="$PROJECT_DIR$/main.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -155,7 +141,7 @@
               <item name="synsets-extract" type="b2602c69:ProjectViewProjectNode" />
               <item name="synsets-extract" type="462c0819:PsiDirectoryNode" />
               <item name="datatest" type="462c0819:PsiDirectoryNode" />
-              <item name="dataset" type="462c0819:PsiDirectoryNode" />
+              <item name="data_test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -311,15 +297,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1826923" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13224447" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3295082" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.42513663" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.42857143" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.36065573" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -340,193 +326,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/datatest/dataset/24.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="3" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="9" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datatest/dataset/18.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datatest/dataset/25.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datatest/dataset/26.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datatest/dataset/27.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datatest/dataset/28.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datatest/dataset/29.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datatest/dataset/30.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datatest/dataset/31.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datatest/dataset/32.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datatest/dataset/33.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datatest/dataset/34.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datatest/dataset/35.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="76" selection-start-line="10" selection-start-column="70" selection-end-line="10" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datatest/dataset/1.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-68" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datatest/dataset/36.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datatest/dataset/37.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datatest/dataset/38.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datatest/dataset/39.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datatest/dataset/40.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datatest/dataset/62a.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datatest/dataset/41.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datatest/dataset/42.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datatest/dataset/43.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datatest/dataset/44.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="88" selection-start-line="5" selection-start-column="78" selection-end-line="5" selection-end-column="88" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datatest/dataset/45.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datatest/dataset/46.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datatest/dataset/47.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="60" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/datatest/dataset/48.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -688,10 +487,102 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/datatest/data_test/1.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datatest/data_test/2.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datatest/data_test/3.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datatest/data_test/4.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datatest/data_test/6.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datatest/data_test/5.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datatest/data_test/7.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datatest/data_test/8.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datatest/data_test/9.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datatest/data_test/10.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datatest/data_test/11.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datatest/data_test/12.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datatest/data_test/13.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datatest/data_test/14.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datatest/data_test/15.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datatest/data_test/16.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datatest/data_test/17.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datatest/data_test/19.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datatest/data_test/18.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datatest/data_test/20.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datatest/data_test/22.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datatest/data_test/21.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datatest/data_test/23.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datatest/data_test/24.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datatest/data_test/25.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output_validasi_kbbi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="293" column="41" lean-forward="true" selection-start-line="293" selection-start-column="41" selection-end-line="293" selection-end-column="41" />
+        <state relative-caret-position="247">
+          <caret line="28" column="96" selection-start-line="28" selection-start-column="96" selection-end-line="28" selection-end-column="96" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
