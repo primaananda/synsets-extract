@@ -5,19 +5,19 @@ from synsets_extraction import alt_gen
 
 class SyncSetTest(unittest.TestCase):
     
-    def test_sample(self):
-        file = open('datatest/data_test/1.json')
-        input = alt_gen('ahad', file)
-        file.close()
-        output = [[['ahad', 'minggu']], [['ahad', 'esa', 'satu', 'tunggal']]]
-        self.assertEqual(input, output, '\nresult: {}\nexpected: {}'.format(input, output))
-
-    # def test_sample2(self):
-    #     file = open('datatest/2.json')
-    #     input = alt_gen('setanggi', file)
+    # def test_sample(self):
+    #     file = open('datatest/data_test/1.json')
+    #     input = alt_gen('ahad', file)
     #     file.close()
-    #     output = [[]]
+    #     output = [[['ahad', 'minggu']], [['ahad', 'esa', 'satu', 'tunggal']]]
     #     self.assertEqual(input, output, '\nresult: {}\nexpected: {}'.format(input, output))
+
+    def test_sample2(self):
+        file = open('datatest/data_test/15.json')
+        input = alt_gen('binatang', file)
+        file.close()
+        output = [[['binatang', 'hewan', 'satwa']]]
+        self.assertEqual(input, output, '\nresult: {}\nexpected: {}'.format(input, output))
     #
     # def test_sample3(self):
     #     file = open('datatest/3.json')

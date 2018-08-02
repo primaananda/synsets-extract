@@ -3,7 +3,10 @@ import json
 import pandas as pd
 import numpy as np
 
+#merubah menjadi dataframe sesuai dengan panjang / jumlah kata
 def synsets_to_dataframe(word, thesa):
+    #input : kata yang akan dicari dan dataset
+    #output : matrik seukuran panjang dataset yang indexnya masih belum terisi
     list_set = []
     for val in thesa[word]:
         word_set = set(val)
@@ -18,7 +21,10 @@ def synsets_to_dataframe(word, thesa):
         list_dataframe.append(df)
     return list_dataframe
 
+#fungsi menambah mengisi index pada dataframe
 def check_validation(word, thesa):
+    #input : kata yang dicari dan dataset
+    #output : matriks yang indexnya telah terisi dengan nilai true atau false
     lines = thesa[word]
     output = []
     matriks_synset = synsets_to_dataframe(word, thesa)
@@ -31,16 +37,20 @@ def check_validation(word, thesa):
                             if sense in matrik.index and inner_sense in matrik.index:
                                 matrik[word][sense] = True
                                 matrik[sense][inner_sense] = True
-
         output.append(matrik)
     return output
 
+#fungsi untuk menghasilkan synsets
 def evaluate_synsets(matrik, word):
+    #input : matrik dari dataframe sebelumnya dan kata yang akan dicari
+    #output : synsets yang sesuai dengan kata yang dicari
+    #print(matrik)
     synsets = []
     for i in range(len(matrik.index), 1, -1):
         for k in itertools.combinations(matrik.index, i):
             sub_matrix = matrik.loc[list(k), list(k)]
-            #print(k)
+            #print(k) #calon synset
+            #print(sub_matrix) #matriks
             is_synset = all(sub_matrix.all().values)
             if is_synset:
                 new_synset = sorted(sub_matrix.all().index)
@@ -55,7 +65,10 @@ def evaluate_synsets(matrik, word):
     #print(synsets)
     return sorted(synsets)
 
+#fungsi untuk menjalankan fungsi check_validation dan evaluate_synsets
 def alt_gen(word, file):
+    #input : kata yang akan dicari dan dataset
+    #output : hasil berupa synsets
     thesa = json.load(file)
     matrixs = check_validation(word, thesa)
     #print(matrixs)
