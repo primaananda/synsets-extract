@@ -1,0 +1,62 @@
+{
+  "aba-aba": [
+    ["arahan", "instruksi", "isyarat", "kode", "komando", "perintah", "petunjuk",
+      "seruan", "suruhan", "tanda", "titah"]
+  ],
+  "arahan": [
+    ["bimbingan", "firman", "panduan", "pedoman", "pengarahan", "pengawalan",
+      "perintah", "petunjuk", "pimpinan", "sabda", "suruhan", "tuntunan"],
+    ["aba-aba", "amanat", "mandat", "titah"]
+  ],
+  "instruksi": [
+    ["aba-aba", "ajaran", "amanat", "amaran", "arahan", "komando", "nasihat",
+      "perintah", "pesan", "titah", "tugas"],
+    ["pedoman", "pelatihan", "pendidikan", "petunjuk"]
+  ],
+  "isyarat": [
+    ["aba-aba", "duaja", "gestur", "kode", "sandi", "sein", "semboyan", "sinyal", "tanda"],
+    ["alamat", "gejala", "gelagat", "indikasi", "pelebaya", "pertanda", "petunjuk",
+      "sasmita", "semboyan", "simtom", "tanda-tanda", "tengara"]
+  ],
+  "kode": [
+    ["aba-aba", "duaja", "isyarat", "petunjuk", "sandi", "tanda"],
+    ["asas", "aturan", "etik", "hukum", "kaidah", "ketentuan", "norma", "peraturan"]
+  ],
+  "komando": [
+    ["aba-aba", "instruksi", "perintah", "suruhan", "titah", "mandat", "order"]
+  ],
+  "perintah": [
+    ["aba-aba", "amanat", "amaran", "arahan", "instruksi", "komando", "mandat",
+      "order", "rodi", "suruhan", "titah", "tugas"]
+  ],
+  "petunjuk": [
+    ["alamat", "bakat", "gejala", "gelagat", "indikasi", "isyarat", "pertanda", "sinyal"],
+    ["atribut", "markah", "rambu-rambu", "tanda", "aba-aba"],
+    ["bukti", "bahan", "ciri", "data", "fakta", "informasi", "keterangan", "masukan"],
+    ["arah", "kaidah", "patokan", "peraturan", "preskripsi", "arah", "kompas"],
+    ["manual", "panduan", "pedoman", "resep", "tip"],
+    ["advis", "ajaran", "amanat", "bimbingan", "fatwa", "nasihat", "pengarahan",
+      "petuah", "tuntunan", "wejangan"],
+    ["bisikan", "ilham", "wahyu", "wangsit"]
+  ],
+  "seruan": [
+    ["jeritan", "laung", "pekik", "teriakan"],
+    ["ajakan", "anjuran", "imbauan", "lambaian", "panggilan", "permintaan", "undangan"]
+  ],
+  "suruhan": [
+    ["aba-aba", "amanat", "amaran", "instruksi", "komando", "mandat", "perintah", "pesan",
+      "titah", "tugas"],
+    ["pesuruh"]
+  ],
+  "tanda": [
+    ["atribut", "cap", "ciri", "ikon", "karakter", "kualitas", "lambang", "logo",
+      "markah", "pengenal", "rambu-rambu", "sebut-sebutan", "semboyan", "simbol", "semboyan"],
+    ["alamat", "anggai", "faal", "fenomena", "firasat", "gejala", "gelagat", "indikasi", "isyarat",
+      "petunjuk", "pertanda", "semboyan", "sinyal", "tengara", "aba-aba", "kode", "sasmita"],
+    ["alasan", "alibi", "bukti", "burhan", "dalil", "hujah", "jejak", "kesaksian",
+      "kesan", "keterangan", "trek"]
+  ],
+  "titah": [
+    ["amanat", "amaran", "firman", "kata", "perintah", "sabda"]
+  ]
+}

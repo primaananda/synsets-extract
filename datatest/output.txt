@@ -68,3 +68,4 @@
 ('kata - ', 'buluh', ' memiliki synset : ', [[['aur', 'awi', 'bambu', 'buluh']]])
 ('kata - ', 'ayam', ' memiliki synset : ', [[['ayam', 'mandung']]])
 ('kata - ', 'ayun', ' memiliki synset : ', [[['ayun', 'goyang']]])
+('kata - ', 'aba-aba', ' memiliki synset : ', [[['aba-aba', 'arahan', 'perintah'], ['aba-aba', 'instruksi', 'komando', 'perintah'], ['aba-aba', 'isyarat', 'kode', 'tanda'], ['aba-aba', 'isyarat', 'petunjuk', 'tanda'], ['aba-aba', 'komando', 'perintah', 'suruhan']]])

@@ -162,7 +162,7 @@ if __name__ == '__main__':
                   'arit', 'pengarsipan', 'arteri', 'nadi', 'pengasahan', 'asam', 'asan',
                   'asap', 'gas', 'atak', 'atensi', 'atlas', 'peta', 'atlet', 'olahragawan',
                   'atom', 'zarah', 'molekul', 'atrium', 'auditor', 'awan', 'gegana', 'bom',
-                  'mega', 'awi', 'buluh', 'ayam', 'ayun']
+                  'mega', 'awi', 'buluh', 'ayam', 'ayun', 'aba-aba']
 
     synset_dataset = []
 
@@ -237,6 +237,7 @@ if __name__ == '__main__':
     synset_dataset.append(alt_gen('buluh', open('datatest/dataset/68.json')))
     synset_dataset.append(alt_gen('ayam', open('datatest/dataset/69.json')))
     synset_dataset.append(alt_gen('ayun', open('datatest/dataset/70.json')))
+    synset_dataset.append(alt_gen('aba-aba', open('datatest/dataset/71.json')))
 
     f = open('datatest/output.txt', 'w+')
     countd = 0
