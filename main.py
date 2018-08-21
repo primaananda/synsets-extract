@@ -11,13 +11,14 @@ def f1_score(synsets_program, synset_manual):
     retrieved_synsets_manual = len(synset_manual)
     if retrieved_synsets_manual != retrieved_synsets_program:
         raise ValueError('A very specific bad thing happened.')
-
+    count = 0
     for program, manual in zip(synsets_program, synset_manual):
+        count += 1
         for x , y in zip(program, manual):
             if x == y:
                 relevant_synset += 1
             else:
-                print('synset yang tidak sama ', program)
+                print('kata ke - ', count, 'program ', program, 'manual ', manual)
     print()
 
     # for program, manual in zip(synsets_program, synset_manual):
